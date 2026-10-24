@@ -1,0 +1,1269 @@
+[
+  {
+    "objectID": "talks/teaching/2025-11-23-ucl/index.html",
+    "href": "talks/teaching/2025-11-23-ucl/index.html",
+    "title": "Inferential statistics and critical use of quantitative research",
+    "section": "",
+    "text": "A lecture held at UCL University College on November 23, from 12.45 pm to 4.30 pm.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html",
+    "title": "Test af spørgeskema",
+    "section": "",
+    "text": "Formål: At fremme deltagere selv kan bruge metoder\nSpørgeskema: At stille enkeltstående spørgsmål, bruge dem til at beskrive adfærd eller holdninger\nMåleskalaer: Måling af komplicerede egenskaber (fx dygtighed, psykologiske egenskaber), hvor vi måler teoretiske begreber indirekte via observerbare indikatorer\n\n\n\n\nKursusplan"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#om-kursus--og-seminarrække",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#om-kursus--og-seminarrække",
+    "title": "Test af spørgeskema",
+    "section": "",
+    "text": "Formål: At fremme deltagere selv kan bruge metoder\nSpørgeskema: At stille enkeltstående spørgsmål, bruge dem til at beskrive adfærd eller holdninger\nMåleskalaer: Måling af komplicerede egenskaber (fx dygtighed, psykologiske egenskaber), hvor vi måler teoretiske begreber indirekte via observerbare indikatorer\n\n\n\n\nKursusplan"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#en-simpel-model-svarproces",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#en-simpel-model-svarproces",
+    "title": "Test af spørgeskema",
+    "section": "En simpel model (svarproces)",
+    "text": "En simpel model (svarproces)\n\n\n\nSimpel responsmodel, Tourangeau et al. (2000)"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#målefejl",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#målefejl",
+    "title": "Test af spørgeskema",
+    "section": "Målefejl",
+    "text": "Målefejl\n\nSvar på spørgsmål = sande værdi\nMålefejl = når svar afviger fra den sande værdi\n\nHvor ofte læser du bøger i fritiden?\n\nSande svar: Ugentligt\nSvar: Hver anden uge\n\n\nMålefejl\n\nResponse bias: folks svar indeholder systematisk over- eller underrapportering i en given retning.\nResponse variance: er de tilfældige målefejl. Forstørrer usikkerheden på vores resultater (ved ikke hvor godt de passer på hver enkelt)"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#eksempel-hvor-mange-gange-har-du-røget-hash-i-de-seneste-6-måneder",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#eksempel-hvor-mange-gange-har-du-røget-hash-i-de-seneste-6-måneder",
+    "title": "Test af spørgeskema",
+    "section": "Eksempel: Hvor mange gange har du røget hash i de seneste 6 måneder?",
+    "text": "Eksempel: Hvor mange gange har du røget hash i de seneste 6 måneder?\n\nR’s sande svar = 6\n\nmen svarer 2 gange (flov) = målefejl\n\nAt forstå målefejl: Hvad sker der ved gentagne målinger (M1, M2, M3)?\nResponse bias\n\nSande svar = 6\n\nM1 = 2\nM2 = 3\nM3 = 2\n\n\nNår svarafvigelser fra sande svar er systematisk, dvs. konsistent skævt i en retning.\nBias = forskel i gns. på alle målinger og den sande værdi"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#eksempel-hvor-mange-gange-har-du-røget-hash-i-de-seneste-6-måneder-1",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#eksempel-hvor-mange-gange-har-du-røget-hash-i-de-seneste-6-måneder-1",
+    "title": "Test af spørgeskema",
+    "section": "Eksempel: Hvor mange gange har du røget hash i de seneste 6 måneder?",
+    "text": "Eksempel: Hvor mange gange har du røget hash i de seneste 6 måneder?\n\nAt forstå målefejl: Hvad sker der ved gentagne målinger (M1, M2, M3)?\nResponse variance\n\nSande svar = 6\n\nM1 = 7 (medregner hændelse for 7 mdr. siden)\nM2 = 5 (glemmer hændelse for to uger siden)\nM3 = 6\n\n\nUstabilitet i svar: Nogle gange for højt, andre gange for lavt\nIkke systematisk mønster: Gennemsnit = sande værdi"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kilder-til-målefejl",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kilder-til-målefejl",
+    "title": "Test af spørgeskema",
+    "section": "Kilder til målefejl",
+    "text": "Kilder til målefejl\nThink-pair-share: Hvilke kilder til målefejl kender I?\n\nBrug lidt tid selv og notér (3-5 minutter)\nTal med sidemanden 5 minutter om hvad der kan give målefejl - og hvorfor\nOpsummering ved tavlen"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#ekspertvurderinger-1",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#ekspertvurderinger-1",
+    "title": "Test af spørgeskema",
+    "section": "Ekspertvurderinger (1)",
+    "text": "Ekspertvurderinger (1)\n\nHvem er eksperter?\n\nFageksperter: Særligt kendskab til emne (lingo)\nSpørgeskemaeksperter: viden om\n\nspørgeskemaer\npsykologi\nsemantik\n\n\nPåpege problemer og forslag til forbedringer\n\nEr spørgsmålene passende til at måle det ønskede?\nMulige forståelsesproblemer (+ andre svarprocesser)?\n\nordvalg, samlede spørgsmål, svarkategorier, rækkefølge\n\n\nKan være interview, typisk skriftlig feedback"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#ekspertvurderinger-2",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#ekspertvurderinger-2",
+    "title": "Test af spørgeskema",
+    "section": "Ekspertvurderinger (2)",
+    "text": "Ekspertvurderinger (2)\n\nTjekliste (Olsen 2006)\nHvert spørgsmål: Kommentar + forbedringsforslag\n\n\n\n\nKursusplan"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#ekspertvurderinger-3",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#ekspertvurderinger-3",
+    "title": "Test af spørgeskema",
+    "section": "Ekspertvurderinger (3)",
+    "text": "Ekspertvurderinger (3)\n\nFordele:\n\nOmkostningseffektiv\nGod til at finde forståelsesproblemer + dataanalyse\nSammenhæng med kvalitet (Olson 2011)\n\nproblematiske spørgsmål større non-response og mere upræcis hukommelse\n\n\nUlemper:\n\nEksperters vurderinger ikke nødvendigvis enslydende (Presser & Blair 1994)\nSubjektive vurderinger (art, not science?)\nIngen input fra respondenter\n\nAndre overvejelser:\n\nEn faktor: Længde (kan besværliggøre opgave)\nTypisk enkelte spørgsmål man er interesseret i"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#fokusgrupper-1",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#fokusgrupper-1",
+    "title": "Test af spørgeskema",
+    "section": "Fokusgrupper (1)",
+    "text": "Fokusgrupper (1)\n\nSmå grupper af (5-10) personer der skal\nTale om emne\n\nHvordan de tænker\n\nDeres forståelse af emnet\nOrd de bruger\nHukommelse (forståelsesudfordringer + hukommelse)\nHvordan de formulerer svar\n\n\nEvaluere spørgsmål (mikse med åben diskussion)\n\nHvad de tænker om foreløbige spørgsmål\n\nom ord i spørgsmål, formuleringen\nUndersøge alternative formuleringer\n\n\nGruppe-kontekst\n\nFlere perspektiver\nDiskussion\nKommentarer afføder feedback"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#fokusgrupper-2-centrale-opgaver",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#fokusgrupper-2-centrale-opgaver",
+    "title": "Test af spørgeskema",
+    "section": "Fokusgrupper (2): Centrale opgaver",
+    "text": "Fokusgrupper (2): Centrale opgaver\n\nModerators interviewguide\nRekruttering\n\nHomogen eller heterogen\n\nVideo eller lydoptagelse\n\nModerator kan ikke tage noter\nskal give taletid (dæmpe dominerende, aktiverer passive)"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#fokusgrupper-3-moderatorinterviewguide",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#fokusgrupper-3-moderatorinterviewguide",
+    "title": "Test af spørgeskema",
+    "section": "Fokusgrupper (3): Moderator/interviewguide",
+    "text": "Fokusgrupper (3): Moderator/interviewguide\nEksempel: Attendance in classical music performance\n\nFirst, we are going to ask people about attendance in the last year at classical music performances. What are some of the kinds of things you have gone to in the past year that might count?\n\n\nNote: Whenever somebody suggest a borderline event, encourage group to give feedback\n\n\nThe question is going to ask people report number of times they have attended. Can you answer that question? Would categories 1-5, 6-10 help?\nA key term is classicial music performances. What does and does not count as classical music, as you understand the term?"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#fokusgrupper-3-moderatorinterviewguide-1",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#fokusgrupper-3-moderatorinterviewguide-1",
+    "title": "Test af spørgeskema",
+    "section": "Fokusgrupper (3): Moderator/interviewguide",
+    "text": "Fokusgrupper (3): Moderator/interviewguide\n\nDikterer flow\nSemistruktureret interview\n\nFør: specificér spørgsmåls-emner (forståelse), genkaldelse og svarafgivelse\nGuide med spørgsmål (+ opfølgende)\n\nTypisk flow\n\nGround rules (what to expect, fortrolighed, optagelse)\nIntroduktion: Formål\nPræsentation\nÅbningsspørgsmål (få gang i tankerne)\n\nHvad er I mest optaget af for tiden, når det gælder mad? (emne: skolemad)\nFortæl lidt om et digitalt læremiddel du kender og har brugt (emne: læreres brug af digitale læremidler)\n\nMere fokuserede\n\nÅbne, ikke-ledende, hv-spørspørgsmål\n\nAfslutning (afstem positioner, efterlad godt intryk)"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#fokusgrupper-4-rekruttering",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#fokusgrupper-4-rekruttering",
+    "title": "Test af spørgeskema",
+    "section": "Fokusgrupper (4): Rekruttering",
+    "text": "Fokusgrupper (4): Rekruttering\n\nVælg informanter fra relevant population\nHomogen/Heterogen gruppe\n\nHeterogen: Generelt at foretrække\n\nAfdække flere perspektiver\nUndergrupper: Afhængig af formål og population (køn, alder, socioøkonomi, etc.)\n\nHomogen: At foretrække ved følsomme emner (fx religion)\n\nGrupper kan stratificeres efter et karakteristika\n\nFx afdække forskelle afhængigt af køn, ansættelsesforhold\n\nTypisk tidskrævende (1,5 - 2 timer): Belønning\n\nGavekort\nAnden påskønnelse"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#fokusgrupper-5",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#fokusgrupper-5",
+    "title": "Test af spørgeskema",
+    "section": "Fokusgrupper (5):",
+    "text": "Fokusgrupper (5):\n\nFordele\n\nGive kvalitativ information\n\nindsigt i hvordan de tænker\nnogen indsigt i kognitiv proces (forståelse, hukommelse, svar)\n\nForskellige perspektiver\n\nUlempe\n\nGruppedynamikker\nGeneraliserbarhed\nRekruttering/tidskrævende\nTransskribering"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kognitive-interview-1",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kognitive-interview-1",
+    "title": "Test af spørgeskema",
+    "section": "Kognitive interview",
+    "text": "Kognitive interview\nKognitive interview er\n“… the administration of draft survey questions while collecting additional verbal information about the survey responses, which is used to evaluate the quality of the response or to help determine whether the question is generating the information that its author intends” (Beatty and Willis 2007)\n“Cognitive interviewing techniques are used to study the manner in which targeted audiences understand, mentally process, and respond to the materials we present (Willis 2005, p. 3)"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kognitive-interview-2",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kognitive-interview-2",
+    "title": "Test af spørgeskema",
+    "section": "Kognitive interview (2)",
+    "text": "Kognitive interview (2)\n\nfokus på kognitive svarproces (ift. fokusgruppe - får lyd på hvert skridt)\n\nfra respondenten modtager spørgsmålet,\novervejer indholdet,\nog beslutter sig for et svar\n\nAfdække målefejl knyttet til forståelse, hukommelse, svarvurdering\nKvalitativ metode - interview\n\nLydoptages eller note-tagning\n\nTre teknikker:\n\nThink-aloud\nProbing\nDefinering"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kognitive-interview-think-aloud-1",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kognitive-interview-think-aloud-1",
+    "title": "Test af spørgeskema",
+    "section": "Kognitive interview: Think-aloud (1)",
+    "text": "Kognitive interview: Think-aloud (1)\n\nInformant skal ‘tænke højt’ når de læser og besvarer spørgsmål\nIndsigt i\n\nforståelse af ord\nudfordringer, hukommelse, stillingtagen, svarafgivelse\n\nAntagelse\n\nTankeprocesser tilgængelige for informant\nInformant kan afrapportere præcist\nAktivitet påvirker ikke tankeproces"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kognitive-interview-think-aloud-2",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kognitive-interview-think-aloud-2",
+    "title": "Test af spørgeskema",
+    "section": "Kognitive interview: Think-aloud (2)",
+    "text": "Kognitive interview: Think-aloud (2)\nQuestion: How many times have you talked to a doctor in the last 12 months?\nResponse: “I guess that depends on what you mean when you say ‘talked.’ I talked to my neighbor, who is a doctor…I go to my doctor about once a year for a general checkup…I’ve also probably been to some type of specialist [bad knee, coughing]…which I’m pretty sure was in the past year…I’ve also talked to doctors…when I brought my kids in to the pediatrician…assume you don’t want that included…saw a chiropractor…I don’t know if that’s a doctor…” (Willis 2005)\n\nHvad lærer vi om:\n\nHvad informant tæller med i sit svar\nOvervejelser om hvad der kvalificerer\nUsikker på ‘talked’, ‘past year’ og ‘doctor’"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kognitive-interview-think-aloud-3",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kognitive-interview-think-aloud-3",
+    "title": "Test af spørgeskema",
+    "section": "Kognitive interview: Think-aloud (3)",
+    "text": "Kognitive interview: Think-aloud (3)\n\nTræning af R\nKomfortabel med at sætte ord på (usædvanlig adfærd)\n\nØvelse:\n“Try to visualize the place where you live, and think about how many windows there are in that place. As you count the windows, tell me what you see and think about.”"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kognitive-interview-think-aloud-4",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kognitive-interview-think-aloud-4",
+    "title": "Test af spørgeskema",
+    "section": "Kognitive interview: Think-aloud (4)",
+    "text": "Kognitive interview: Think-aloud (4)\n\nTo versioner\n\nSamtidig\n\n‘Tænke højt’ mens han/hun formulerer det\n\nRetrospektiv\n\n‘Tænke højt’ efter besvarelse af spørgsmål eller skema"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kognitive-interview-think-aloud-5",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kognitive-interview-think-aloud-5",
+    "title": "Test af spørgeskema",
+    "section": "Kognitive interview: Think-aloud (5)",
+    "text": "Kognitive interview: Think-aloud (5)\nZaller & Feldman (1992)\n\nSamtidig: Before telling me how you feel about this, could you tell me what kind of things come to mind when you think about this question?\nRetrospektiv: Still thinking about the question you just answered, I’d like you to tell me what ideas came to mind as you were answering that question. Exactly what things went through your mind?"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kognitive-interview-think-aloud-6",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kognitive-interview-think-aloud-6",
+    "title": "Test af spørgeskema",
+    "section": "Kognitive interview: Think-aloud (6)",
+    "text": "Kognitive interview: Think-aloud (6)\n\nSamtidig think-aloud\n\nreflektere over alle spørgsmål\nglemmer ikke overvejelser undervejs\n\nRetrospektiv think-aloud\n\nMindre tungt for respondent (langt skema)\nBedre flow i interview\n\n\nGenerelt\n\nFordel\n\nSimpel teknik\nAntages at reflektere tankeproces\nInterviewer-effekt begrænses\n\nUlempe\n\nBesværlig for informant\nKognitive belastning kan ændre bearbejdning\nKan metode påvirke svar? (stimulere tænkning)"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kongnitive-interview-probing-1",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kongnitive-interview-probing-1",
+    "title": "Test af spørgeskema",
+    "section": "Kongnitive interview: Probing (1)",
+    "text": "Kongnitive interview: Probing (1)\n\nOpfølgningsspørgsmål, som interviewer stiller informant (kognitive proces)\nStørre engagement fra interviewer\nEksempler\n\nForståelse: Hvad betyder ordet ‘patient’ for dig?\nGenkald: Hvordan kom du i tanke om at du har været ved læge 5 gange de seneste tolv måneder?\nSvarvurdering: Hvordan kom du frem til svaret?\nSvarafgivelse: Fandt du, svarkategorierne passer til spørgsmålet?\nLøbende: fx “Jeg lagde mærke til, at du tøvede ved spørgsmålet om tv-vaner. Hvad skyldtes det?”"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kongnitive-interview-probing-2",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kongnitive-interview-probing-2",
+    "title": "Test af spørgeskema",
+    "section": "Kongnitive interview: Probing (2)",
+    "text": "Kongnitive interview: Probing (2)\n\nProaktive probes\n\nInterviewer søger aktivt efter problemer\n\nTypisk planlagte probes\n\nHvad tænkte du på, da du prøvede at huske?\nHvilke begivenheder inkluderede du i dit svar?\n\nReaktive\n\nUdløses af respondenters adfærd\n\nKan være defineret eller overladt til interviewer (skønsmæssig)\n\nEksempler\nDu så ud som om du tænkte meget over det. Hvad tænkte du på?\nDu svarede meget hurtigt. Hvorfor var det nemt?"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kongnitive-interview-probing-3",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kongnitive-interview-probing-3",
+    "title": "Test af spørgeskema",
+    "section": "Kongnitive interview: Probing (3)",
+    "text": "Kongnitive interview: Probing (3)\n\nFordel\n\nNemmere for informant end think-aloud\nBedre mulighed for samtale\n\nUlempe\n\nStørre engagement fra interviewer\nMere ‘usagt’ viden \\(\\rightarrow\\) færre overvejelser"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kongnitive-interview-definering",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#kongnitive-interview-definering",
+    "title": "Test af spørgeskema",
+    "section": "Kongnitive interview: Definering",
+    "text": "Kongnitive interview: Definering\n\nSpecifik fokus på ordforståelse\nInformant præseteres for centrale ord og bedt om at forklare\n\nEksempel Hvilke ord eller aktiviteter forbinder du med ’frivilligt arbejde’? Kan du give nogle eksempler?\n\nFordel\n\nKræver mindre af interviewer og af informant og R\n\nUlempe\n\nIkke indsigt i svarprocessen"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#udvælgelse-til-kognitive-interviews-generelt",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#udvælgelse-til-kognitive-interviews-generelt",
+    "title": "Test af spørgeskema",
+    "section": "Udvælgelse til kognitive interviews generelt",
+    "text": "Udvælgelse til kognitive interviews generelt\n\nAfhængigt af hvad man ønsker at opnå\nFokus på at identificere mange problemer\n\nForskelligartede informanter\nGrupper med særlig udfordring (fx svagt læsende elever)\n\nDog igen tidskrævende og kan være svært/dyrt at rekruttere"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#opsummering",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#opsummering",
+    "title": "Test af spørgeskema",
+    "section": "Opsummering",
+    "text": "Opsummering\n\nOfte bruges en kombination af metoder\n\nThink-aloud, Probing, Definering\n\n\nOverordnet\n\nFordel: Dyb forståelse af om informanter\n\nforstår enkeltord\ngenkalder information (og problemer)\ngider forsøge at huske (eller estimerer)\ngrundlæggende kvalitativ (dyb viden)\n\nUlemper:\n\nIkke repræsentativ\nKræver meget af interviewer (viden om spørgeskemakonstruktion)\nVed brug af skønsmæssige probe-teknikker (tilfældige nedslag)\nTransskribering"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#eksperimenter-1",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#eksperimenter-1",
+    "title": "Test af spørgeskema",
+    "section": "Eksperimenter (1)",
+    "text": "Eksperimenter (1)\n\nKvantitativ tilgang for at undersøge kvaliteten af spørgsmål eller svarkategorier\nTypisk ’split-ballot’ eksperimenter\nFremgangsmåde:\n\nRekruttere en gruppe af respondenter til at besvare spørgeskema\nOpdeler/splitter gruppen tilfældigt i to eller flere grupper\n\nlodtrækning (sikre sammenlignelighed)\n\nGrupper modtager forskellige versioner af spørgsmål\nSammenligner svar ml. grupper\n\n\nUndersøge betydningen af ord, svarskala eller rækkefølge."
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#eksperimenter---enkeltord-2",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#eksperimenter---enkeltord-2",
+    "title": "Test af spørgeskema",
+    "section": "Eksperimenter - enkeltord (2)",
+    "text": "Eksperimenter - enkeltord (2)\n\nVersion 1: Hvor mange timer brugte du i sidste uge på husligt arbejde derhjemme?\nVersion 2: Hvor mange timer brugte du i sidste uge på husligt arbejde derhjemme? (fx støvsugning, opvask, havearbejde og opvask)"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#eksperimenter---svarskala-3",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#eksperimenter---svarskala-3",
+    "title": "Test af spørgeskema",
+    "section": "Eksperimenter - svarskala (3)",
+    "text": "Eksperimenter - svarskala (3)\nSchwarz et al. (1985) fortsat\nHow many hours of television do you watch on an average day?\n\n\n\nTourangeau 2000: 248\n\n\n\nLow options: 16,2 % ‘more than 2½ hours’\nHigh options: 36,5 % ‘more than 2½ hours’\nMidterkategori/Ved ikke"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#eksperimenter---rækkefølge-4",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#eksperimenter---rækkefølge-4",
+    "title": "Test af spørgeskema",
+    "section": "Eksperimenter - rækkefølge (4)",
+    "text": "Eksperimenter - rækkefølge (4)\nQ: Skal USA give journalister fra kommunistiske lande fri adgang? (Schuman & Presser 1981)\nCommunist reporters: Do you think the United States should let Communist reporters from other countries come in here and send back news to their papers?\nAmerican Reporters: Do you think a Communist country like Russia should let American newspaper reporters come in and send back news to their papers?\n\n‘Communist reporter først’: Lav støtte til fri adgang (55%)\n\nholdning til kommunisme, Rusland\n\n‘Communist reporter nr. 2’: Høj støtte til fri adgang (75%)\n\nfairness, ligeværd"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#eksperimenter-5",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#eksperimenter-5",
+    "title": "Test af spørgeskema",
+    "section": "Eksperimenter (5)",
+    "text": "Eksperimenter (5)\n\nOvervejelser\n\nVær varsom: Begræns variation imellem versioner\n\nhelst kun én forskel\n\nHensigtsmæssig metode ift. at minimere ved-ikke svar\n\nFordele:\n\nTester om fx ord, svarskala eller rækkefølge gør en forskel\nStærk test om variation gør en forskel\n\nIkke baseret på informanters egen psyko-analyse\nObserveret og pr. design\n\n\nUlempe:\n\nKan være svært at afgøre hvad der er bedst afhængig af formålet\nEgner sig ikke som eksplorativ metode\nRepræsentativ\nStatistisk usikkerhed (kræver mange respondenter)"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#pilot-test-1",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#pilot-test-1",
+    "title": "Test af spørgeskema",
+    "section": "Pilot-test (1)",
+    "text": "Pilot-test (1)\n\nKvantitativ metode\nGennemførsel af spørgeskema i lille skala\n\nfx 100 respondenter\n\nTestdata, der kan identificere problemer\nHvad kigger vi efter?"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#pilot-test-2",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#pilot-test-2",
+    "title": "Test af spørgeskema",
+    "section": "Pilot-test (2)",
+    "text": "Pilot-test (2)\n\n\nProblem 1: Spørgsmål non-respons"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#pilot-test-2-1",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#pilot-test-2-1",
+    "title": "Test af spørgeskema",
+    "section": "Pilot-test (2)",
+    "text": "Pilot-test (2)\n\nProblem 1: Spørgsmål non-respons\nÅrsager\n\nmanglende forståelse\nlav motivation\nbevidst tilbageholdelse\nsvarkategorier passer ikke\n\nLøsning\n\nTest af spørgsmålsordlyd og svarkategorier\nUdelad hvis irrelevant for respondent\n(tilbyd ved ikke)"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#pilot-test-3",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#pilot-test-3",
+    "title": "Test af spørgeskema",
+    "section": "Pilot-test (3)",
+    "text": "Pilot-test (3)\n\nProblem 2: Mange ved ikke svar\n\nIkke problem ved faktuelle vidensspørgsmål\nProblem ved adfærdsspørgsmål eller holdningsspørgsmål\n\nLøsning\n\nTest af spørgsmålsordlyd og svarkategorier\nUdelad hvis irrelevant for respondent\nEksperimentér med hjælpetekst"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#pilot-test-4",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#pilot-test-4",
+    "title": "Test af spørgeskema",
+    "section": "Pilot-test (4)",
+    "text": "Pilot-test (4)\n\nProblem 3: Lav variation\n\nofte begrænset nytte\n\n\n\nLøsning\n\nTests af spørgsmål og svarkategorier\nUdelad hvis irrelevant for respondent"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#afgøre-response-bias-1",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#afgøre-response-bias-1",
+    "title": "Test af spørgeskema",
+    "section": "Afgøre response bias (1)",
+    "text": "Afgøre response bias (1)\n\nResponse bias: folks svar indeholder systematisk over- eller underrapportering i en given retning.\nKan man sammenholde med sand værdi?\n\nFaktuelle spørgsmål, ikke holdninger\n\nCannel et al. 1977 undersøge hospitalsindlæggelser\n\nSammenholder journaler med surveysvar\n\n\n\n\n\nCannel et al. 1997"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#afgøre-response-bias-2",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#afgøre-response-bias-2",
+    "title": "Test af spørgeskema",
+    "section": "Afgøre response bias (2)",
+    "text": "Afgøre response bias (2)\n\nEksempel\n\nElevers lånefrekvens på skolebibliotek seneste år\nLæreres sygemeldinger\nLæreres gennemførsel af frivilige nationale test\nLæreres brug af digitalt læremiddel (der logger brug)\n\n\n\n\nKræver"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#afgøre-response-variance-1",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#afgøre-response-variance-1",
+    "title": "Test af spørgeskema",
+    "section": "Afgøre response variance (1)",
+    "text": "Afgøre response variance (1)\n\nResponse variance: er de tilfældige målefejl.\nUndersøges ved ‘repeated interviews’ med samme respondent\n\nKort tid ml. t0 og t1\n\n\n\n\n\nSimultan fordeling"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/testskema_slides.html#afgøre-response-variance-2",
+    "href": "talks/teaching/2021-10-15-ucl/testskema_slides.html#afgøre-response-variance-2",
+    "title": "Test af spørgeskema",
+    "section": "Afgøre response variance (2)",
+    "text": "Afgøre response variance (2)\n\nAntagelser\n\nIkke ændring i det man måler mellem målinger\nSamme protokol\nFørste måling påvirker ikke svar på anden måling\n\nReliabilitetsmål (ml. 0 og 1, højere værdier stabilitet)\n\nNominal skala: Cohen’s kappa\nOrdinal skala: Weighted kappa\nInterval skala: Correlation coefficient\n\n\n\n\nKræver"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html",
+    "title": "Udvælgelse af respondenter",
+    "section": "",
+    "text": "Formål: At fremme deltagere selv kan bruge metoder\nSpørgeskema: At stille enkeltstående spørgsmål, bruge dem til at beskrive adfærd eller holdninger\nMåleskalaer: Måling af komplicerede egenskaber (fx dygtighed, psykologiske egenskaber), hvor vi måler teoretiske begreber indirekte via observerbare indikatorer\n\n\n\n\nKursusplan"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#om-kursus--og-seminarrække",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#om-kursus--og-seminarrække",
+    "title": "Udvælgelse af respondenter",
+    "section": "",
+    "text": "Formål: At fremme deltagere selv kan bruge metoder\nSpørgeskema: At stille enkeltstående spørgsmål, bruge dem til at beskrive adfærd eller holdninger\nMåleskalaer: Måling af komplicerede egenskaber (fx dygtighed, psykologiske egenskaber), hvor vi måler teoretiske begreber indirekte via observerbare indikatorer\n\n\n\n\nKursusplan"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#læringsmål",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#læringsmål",
+    "title": "Udvælgelse af respondenter",
+    "section": "Læringsmål",
+    "text": "Læringsmål\nDeltagere skal\n\nkende til og forstå begreber som population, stikprøve, estimat samt dets notation\nforstå og kunne forklare hvorfor man kan generalisere fra stikprøver udtrukket med tilfældig udvælgelse\nkende til og kunne beregne statistisk usikkerhed forbundet med et estimat fra en given stikprøve\nkende til udfordringer med resultater fra stikprøver baseret på ikke-tilfældig udvælgelse"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#outline",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#outline",
+    "title": "Udvælgelse af respondenter",
+    "section": "Outline",
+    "text": "Outline"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#hvor-er-vi",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#hvor-er-vi",
+    "title": "Udvælgelse af respondenter",
+    "section": "Hvor er vi?",
+    "text": "Hvor er vi?\n\nAt stille spørgsmål\nGør os i stand til at producere tabel og resultat\n\nHvis vi spørger nogle..\n\nQ: Mener du at indvandring er godt eller dårlig for økonomien i Danmark?"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#formålet-udtale-os-om-population",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#formålet-udtale-os-om-population",
+    "title": "Udvælgelse af respondenter",
+    "section": "Formålet: Udtale os om population",
+    "text": "Formålet: Udtale os om population\n\nPopulation: Afgrænset gruppe, som vi gerne vil lære om\nUdtale os om adfærd eller holdninger i population\n\nVælgere i Danmark (Borgere i Danmark 18+ med valgret)\nLærere i grundskolen i Vejle Kommune\n\nSjældent mulighed for at spørge alle\n\nOmkostningsfuldt/Tidskrævende\nNødvendigt? (folk skal bruge tid)\n\n\n\n\n\nPopulation"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#stikprøve",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#stikprøve",
+    "title": "Udvælgelse af respondenter",
+    "section": "Stikprøve",
+    "text": "Stikprøve\n\nStikprøve: Udsnit af population\nInferens: generalisere fra stikprøve til population\n\nInteresseret i at spørge de få - for at vide noget om de mange\nSample surveys describe or make inferences to well-defined populations (Groves et al. 2009: 69)\n\n\n\n\n\nPopulation og stikprøve\n\n\n\nSampling henviser til den proces, hvorved en stikprøve (sample), fx en gruppe deltagere, udvælges fra den (population), som ønskes undersøgt, fx en befolkningsgruppe"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#stikprøvedata",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#stikprøvedata",
+    "title": "Udvælgelse af respondenter",
+    "section": "Stikprøvedata",
+    "text": "Stikprøvedata\n\nUdfordring ved stikprøvedata\n\nKunne generalisere fra udsnit til population\n\nStikprøven skal være repræsentativ\n\nReflektere populationen ret præcist\nIngen systematiske forskelle ml. stikprøve og population (fravær af bias)\n= Stikprøven udgør en ‘mini-population’"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#tænkt-eksempel-på-bias",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#tænkt-eksempel-på-bias",
+    "title": "Udvælgelse af respondenter",
+    "section": "Tænkt eksempel på bias",
+    "text": "Tænkt eksempel på bias\n\nProblemstilling: Hvad mener danskerne om størrelsen på ulandsbistanden?\nUdvælgelse: 750 kvinder, 250 mænd\nResultat: Flertallet (55%) synes, at den skal sættes op\nKan dette generaliseres til alle danskere?"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#tilfældig-udvælgelse-1",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#tilfældig-udvælgelse-1",
+    "title": "Udvælgelse af respondenter",
+    "section": "Tilfældig udvælgelse (1)",
+    "text": "Tilfældig udvælgelse (1)\n\nTilfældig udvælgelse betyder\n\nHver enhed har kendt + non-zero chance for at blive udvalgt\nLodtrækning, minus menneskelig indblanding\n\nDen basale form: Simpel tilfældig udvælgelse (SRS)\n\nAlle enheder har samme sandsynlighed for at blive udvalgt\nfx computerudtrækning af tilfældige tal (random.org)\n\n\n\n\n\nSimpel tilfældig udvægelse"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#tilfældig-udvælgelse-2",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#tilfældig-udvælgelse-2",
+    "title": "Udvælgelse af respondenter",
+    "section": "Tilfældig udvælgelse (2)",
+    "text": "Tilfældig udvælgelse (2)\n\nTilfældig udvælgelse betyder\n\nHver enhed har kendt + non-zero chance for at blive udvalgt\nLodtrækning, minus menneskelig indblanding\n\nDen basale form: Simpel tilfældig (SRS)\n\nAlle enheder har samme sandsynlighed for at blive udvalgt\nfx computerudtrækning af tilfældige tal (random.org)\n\nOpnå repræsentativ stikprøve med tilfældig udvælgelse\n\nStikprøven ligner - sandsynligvis - population\n\nStørre sandsynlighed, når stikprøven \\(\\uparrow\\)\n\nVi kan estimere usikkerhed\n\nMere om dette om lidt.."
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#tilfældig-udvælgelse-3",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#tilfældig-udvælgelse-3",
+    "title": "Udvælgelse af respondenter",
+    "section": "Tilfældig udvælgelse (3)",
+    "text": "Tilfældig udvælgelse (3)\n\nMed tilfældig udvælgelse…\n\\(\\rightarrow\\) Én stikprøve kan beskrive population med kendt præcision!"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#forudsætning-1-veldefineret-population",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#forudsætning-1-veldefineret-population",
+    "title": "Udvælgelse af respondenter",
+    "section": "Forudsætning 1: Veldefineret population",
+    "text": "Forudsætning 1: Veldefineret population\n\nEn veldefineret population er\n\nAfgrænset i størrelse (dvs. at den vil kunne tælles)\nAfgrænset i tid (dvs. den eksisterer på et givent tidspunkt)\nObserverbar (dvs. at enheder kan kontaktes)\n\nGode egenskaber:\n\nMuliggør udtrækning af stikprøve\nVed hvem stikprøveresultater kan generaliseres til"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#forudsætning-2-sampling-frame-universliste",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#forudsætning-2-sampling-frame-universliste",
+    "title": "Udvælgelse af respondenter",
+    "section": "Forudsætning 2: Sampling Frame (Universliste)",
+    "text": "Forudsætning 2: Sampling Frame (Universliste)\n\nTypisk brug for en liste med alle enheder i populationen\n\nHvor godt dækker sampling frame enheder i populationen?\n\nUndercoverage: Enheder i pop er ikke i sampling frame\nIneligible: Enheder i sampling frame er ikke i populationen\nDuplicates: En enhed i populationen optræder flere gange\n\n\nSampling frame 1:1 match med population\n\n\n\n\nSampling Frame (skoleledere)"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#statistiske-egenskaber-ved-tilfældig-udvælgelse",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#statistiske-egenskaber-ved-tilfældig-udvælgelse",
+    "title": "Udvælgelse af respondenter",
+    "section": "Statistiske egenskaber ved tilfældig udvælgelse",
+    "text": "Statistiske egenskaber ved tilfældig udvælgelse\n\nHvorfor kan vi med tilfældig udvælgelse generalisere fra stikprøve?\nTre statistiske egenskaber:\n\nUnbiasedness\nLaw of large numbers\n\nHøj chance: Stikprøve ligner pop præcist, når stikprøve stor\n\nCentral limit theorem\n\nVi kan estimere hvor præcis/usikker\n\n\nEksemplificere"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#eksempel",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#eksempel",
+    "title": "Udvælgelse af respondenter",
+    "section": "Eksempel",
+    "text": "Eksempel\n\nEstimere andelen, der stemmer på Rød blok i Vejle Kommune med simpel tilfældig udvælgelse af 1000 personer\n\nNotation:\n\n\\(N\\) = population, borgere over 18 år med valgret (N=87.923)\n\\(n\\) = stikprøvestørrelse (n=1000)\n\\(p\\) = andelen i populationen, der stemmer på Rød blok\n\ni virkeligheden er p=0.52, men det ved vi ikke\n\n\\(\\hat{p}\\) = estimat i stikprøve, dvs. et bud."
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#unbiasedness-1",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#unbiasedness-1",
+    "title": "Udvælgelse af respondenter",
+    "section": "Unbiasedness (1)",
+    "text": "Unbiasedness (1)\n\nMange mulige stikprøver af størrelse n fra en population\nI vores eksempel\n\n\\(n\\) = 1000\n\\(N\\) = 87923\nAntal mulige stikprøver = så stort, kan ikke beregnes i Excel\n\neksempel: n=3, N=9, 84 forskellige stikprøver\n\n\n\\(\\hat{p}\\) rammer ikke nødvendigvis rigtigt i én stikprøve (p=0.52)\n\nSpørger ikke alle\nTilfældigt hvem der kommer med\n\\(\\rightarrow\\) Tilfældige afvigelser"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#unbiasedness-2",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#unbiasedness-2",
+    "title": "Udvælgelse af respondenter",
+    "section": "Unbiasedness (2)",
+    "text": "Unbiasedness (2)\n\nRealiserede stikprøver, \\(s = 1,2,.., S\\)\n\\(\\hat{p_s}\\) = realiseret estimat i stikprøve \\(s\\)\n\n\nTilfældig udvælgelse \\(\\rightarrow\\) \\(\\hat{p_s}\\) rammer i gennemsnit rigtigt (\\(= p\\))"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#law-of-large-numbers-lln-1",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#law-of-large-numbers-lln-1",
+    "title": "Udvælgelse af respondenter",
+    "section": "Law of Large Numbers (LLN) (1)",
+    "text": "Law of Large Numbers (LLN) (1)\n\ndansk: Store Tals Lov\nHvad sker der med \\(\\hat{p}\\), når n \\(\\uparrow\\)?\nLLN = Når n \\(\\uparrow\\), sandsynlighed stiger for at \\(\\hat{p}\\) er tæt på p!\nSimulation (Vejle-eksempel)\n\nSRS fra population, hvor 52% stemmer på Rød blok\nHvad sker der når vi trækker én mere, og én mere, osv.\n\n\n\n\n\nLLN"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#law-of-large-numbers-lln-2",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#law-of-large-numbers-lln-2",
+    "title": "Udvælgelse af respondenter",
+    "section": "Law of Large Numbers (LLN) (2)",
+    "text": "Law of Large Numbers (LLN) (2)\n\nHusk:\n\nVi kender ikke p (dét vi estimerer)\n\nLLN = Tilfældig + stor stikprøve\n\n\\(\\rightarrow\\) vi ved, vi kommer tæt på\n\nStikprøve ligner sandsynligvis population mere præcist, når n stiger\n\nGælder for outcome (stemme på Rød Blok), men fx også\n\nKøn (andel mænd)\nAlder (fx andel +50 år)\nIndkomst\n\n\n\n\n\n\nLLN"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#central-limit-theorem-clt-1",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#central-limit-theorem-clt-1",
+    "title": "Udvælgelse af respondenter",
+    "section": "Central Limit Theorem (CLT) (1)",
+    "text": "Central Limit Theorem (CLT) (1)\n\nDansk: Den centrale grænseværdisætning\n\nGrundlag for at udtale sig om usikkerhed/præcision af \\(\\hat{p}\\)\n\nHvad sker der, når vi gentager forsøget?\n\ndvs. med samme stikprøve-størrelse, \\(n\\)\nhvordan opfører \\(\\hat{p}\\) sig?\n\nStikprøvemålsfordeling = Resultater (\\(\\hat{p}\\)) af mulige stikprøver\n\nHusk mange mulige stikprøver (n=1000, N=87923)\nProducerer estimater (\\(\\hat{p}\\)), der varierer\nFordeling viser forskellighed i resultater (for et givent n)"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#central-limit-theorem-clt-2",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#central-limit-theorem-clt-2",
+    "title": "Udvælgelse af respondenter",
+    "section": "Central Limit Theorem (CLT) (2)",
+    "text": "Central Limit Theorem (CLT) (2)\n\nCLT = Stikprøvemålsfordeling (\\(\\hat{p}\\)) approksimerer normalfordeling omkring p, når n er stor\nSimulation:\n\n1000 stikprøver SRS af n=1000 fra population med p=0.52\n\n\n\n\n\nStikprøvemålsfordeling\n\n\nKommentarer * Mange realiserede stikprøver * Højde viser sandsynlighed for bestemte resultater (her andele) for et givet stikprøvemål"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#central-limit-theorem-clt-3",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#central-limit-theorem-clt-3",
+    "title": "Udvælgelse af respondenter",
+    "section": "Central Limit Theorem (CLT) (3)",
+    "text": "Central Limit Theorem (CLT) (3)\nImplikationer og betingelser\n\nVi kan beregne usikkerheden på \\(\\hat{p}\\) (hvor tæt på sandheden)\n\nNormalfordeling: ved hvor langt observationer (\\(\\hat{p}\\)) falder fra p (mere om lidt)\n\nNormaliteten indtræder uanset populationsfordeling ved ca. \\(n \\ge 30\\)"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#opsummering",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#opsummering",
+    "title": "Udvælgelse af respondenter",
+    "section": "Opsummering",
+    "text": "Opsummering\n\nTilfældig udvælgelse medfører,\n\nAt vi rammer rigtigt i gennemsnit (Unbiased)\nAt \\(\\hat{p}\\) er tæt på p, når n \\(\\uparrow\\) (Law of large numbers)\nVi kan beregne usikkerhed (Central Limit Theorem) (stikprøvemålsfordeling \\(\\approx\\) normalfordeling)\n\nRepræsentativitet vha. tilfældig udvægelse\n\nStikprøven ligner - sandsynligvis - populationen (fordeling på variable i stikprøven samme som i pop)\n\nStørre sandsynlighed, når n \\(\\uparrow\\)\n\nVi kan estimere hvor langt vi risikerer at være fra"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregninger-af-estimater",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregninger-af-estimater",
+    "title": "Udvælgelse af respondenter",
+    "section": "Beregninger af estimater",
+    "text": "Beregninger af estimater"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregning-af-stikprøve-andelen-hatp-1",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregning-af-stikprøve-andelen-hatp-1",
+    "title": "Udvælgelse af respondenter",
+    "section": "Beregning af stikprøve-andelen, \\(\\hat{p}\\) (1)",
+    "text": "Beregning af stikprøve-andelen, \\(\\hat{p}\\) (1)\n\n\n\\(\\hat{p}\\) = andel, der gør noget (fx stemmer på Rød blok)\n\n\n\n\n\\(\\hat{p}\\) = \\(\\frac{1}{n}\\) \\(\\sum_{i = 1}^{n}\\) \\(y_{i}\\) = andel af 1’taller i stikprøven\n\n\n\n\n\\(y_{i} =\\) angiver om respondent \\(i\\) stemmer på Rød blok eller ej (\\(y_{i}, i= 1, 2,..,n\\))\n\n\\(y_{i} = 1\\) (stemmer rød blok)\n\\(y_{i} = 0\\) (stemmer ikke rød blok)"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregning-af-stikprøve-andelen-hatp-2",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregning-af-stikprøve-andelen-hatp-2",
+    "title": "Udvælgelse af respondenter",
+    "section": "Beregning af stikprøve-andelen, \\(\\hat{p}\\) (2)",
+    "text": "Beregning af stikprøve-andelen, \\(\\hat{p}\\) (2)\n\n\\(\\hat{p}\\) = andel, der gør noget (fx stemmer på Rød blok)\n\\(\\hat{p}\\) = \\(\\frac{1}{n}\\) \\(\\sum_{i = 1}^{n}\\) \\(y_{i}\\) = andel af 1’taller i stikprøven\n\\(y_{i} =\\) angiver om respondent \\(i\\) stemmer på Rød blok eller ej (\\(y_{i}, i= 1, 2,..,n\\))\n\n\\(y_{i} = 1\\) (stemmer rød blok)\n\\(y_{i} = 0\\) (stemmer ikke rød blok)\n\n\nEksempel\n\nLad os sige n=4 og\n\n\\(y_{1}\\) = 0 (respondent i=1; stemmer ikke Rød blok)\n\\(y_{2}\\) = 1 (respondent i=2; stemmer Rød blok)\n\\(y_{3}\\) = 0\n\\(y_{4}\\) = 1\n\n\n\\(\\hat{p}\\) = \\(\\frac{1}{4}(0+1+0+1)\\) = \\(\\frac{(0+1+0+1)}{4}\\) = 0.50"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregning-af-usikkerhed-1",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregning-af-usikkerhed-1",
+    "title": "Udvælgelse af respondenter",
+    "section": "Beregning af usikkerhed (1)",
+    "text": "Beregning af usikkerhed (1)\n\nVi vil gerne kende usikkerheden på stikprøveestimat, \\(\\hat{p}\\)\n\nhvor langt risikerer vi at \\(\\hat{p}\\) ligger fra p?\n\nStikprøvemålsfordeling\n\nmange mulige stikprøver, producerer estimater som varierer\nfortæller om spredningen i mulige resultater\nCLT: danner normalfordeling i store stikprøver\n\n\n\n\n\nStikprøvemålsfordeling"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregning-af-usikkerhed-2",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregning-af-usikkerhed-2",
+    "title": "Udvælgelse af respondenter",
+    "section": "Beregning af usikkerhed (2)",
+    "text": "Beregning af usikkerhed (2)\n\nFormel for spredning i stikprøvemålsfordeling:\n\n\\(SE(\\hat{p})\\) = \\(\\sqrt \\frac{p(1-p)}{n}\\)\n\nSE = standardfejl = mål for spredning i stikprøvemålsfordeling\nHvad påvirker spredning\n\nn: Spredning mindre (større præcision), når n \\(\\uparrow\\)\n\n\n\n\n\nStikprøvemålsfordeling"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregning-af-usikkerhed-2-1",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregning-af-usikkerhed-2-1",
+    "title": "Udvælgelse af respondenter",
+    "section": "Beregning af usikkerhed (2)",
+    "text": "Beregning af usikkerhed (2)\n\n\n\nStikprøvemålsfordeling"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregning-af-usikkerhed-2-2",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregning-af-usikkerhed-2-2",
+    "title": "Udvælgelse af respondenter",
+    "section": "Beregning af usikkerhed (2)",
+    "text": "Beregning af usikkerhed (2)\n\nFormel for spredning i stikprøvemålsfordeling:\n\n\\(SE(\\hat{p})\\) = \\(\\sqrt \\frac{p(1-p)}{n}\\)\n\nSE = standardfejl = mål for spredning i stikprøvemålsfordeling\nHvordan påvirkes spredning\n\nn: Spredning mindre (større præcision), når n \\(\\uparrow\\)\np: Spredning størst, når p=0.5 (folk mest forskellig)\n\n\n\n\n\nStikprøvemålsfordeling"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregning-af-usikkerhed-3",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregning-af-usikkerhed-3",
+    "title": "Udvælgelse af respondenter",
+    "section": "Beregning af usikkerhed (3)",
+    "text": "Beregning af usikkerhed (3)\n\nUkendt spredning i stikprøvemålsfordeling\n\np er ukendt\nudtrækker kun én stikprøve\n\nVi kan estimere vha. \\(\\hat{p}\\) i stikprøve (dejligt)\n\nFormel\n\\(\\hat{SE}(\\hat{p})\\) = \\(\\sqrt \\frac{\\hat{p}(1-\\hat{p})}{n-1}\\)\nVejle-eksempel (stemme på Rød blok)\n\nLad os sige n=1000 og \\(\\hat{p}\\) = 0.50 (p=0.52)\n\\(\\hat{SE}(\\hat{p})\\) = \\(\\sqrt \\frac{.50(1-.50)}{1000-1}\\)\n\\(\\hat{SE}(\\hat{p})\\) = 0.016"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregning-af-usikkerhed-4",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregning-af-usikkerhed-4",
+    "title": "Udvælgelse af respondenter",
+    "section": "Beregning af usikkerhed (4)",
+    "text": "Beregning af usikkerhed (4)\n\nHvad kan vi så bruge det til?\nCLT: stikprøvemålsfordelingen \\(\\approx\\) normalfordeling\n\n95% af observationer (\\(\\hat{p}\\)) falder +/- 1.96 \\(SE(\\hat{p})\\) fra p\nGiver os regel til at beregne hvor langt \\(\\hat{p}\\) kan falde fra p\n\n\n\n\n\nStikprøvemålsfordeling for \\(\\hat{p}\\)"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregning-af-usikkerhed-5",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#beregning-af-usikkerhed-5",
+    "title": "Udvælgelse af respondenter",
+    "section": "Beregning af usikkerhed (5)",
+    "text": "Beregning af usikkerhed (5)\n\nVi kan beregne 95% konfidensinterval:\n\nEt interval, hvor p ligger med 95% sandsynlighed\nTrækker 100 stikprøver, vil p være i intervallet 95 gange\n\n95% konfidensinterval: \\(\\hat{p} \\pm 1.96SE(\\hat{p})\\)\n\nNedre grænse: \\(\\hat{p} - 1.96SE(\\hat{p})\\)\nØvre grænse: \\(\\hat{p} + 1.96SE(\\hat{p})\\)\n\nI vores Vejle-eksempel:\n\n\\(p\\) = 0.52 (kender vi ikke)\nn = 1000\n\\(\\hat{p}\\) = 0.50\n\\(\\hat{SE}(\\hat{p})\\) = 0.016 (tidl. beregnet)\n\n95% konfidensinterval: \\(0.5 \\pm 1.96 \\times 0.016 = [0.47 , 0.53]\\)\nUsikkerhed på +/- 3 procentpoint"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#usikkerhed-og-stikprøvestørrelse",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#usikkerhed-og-stikprøvestørrelse",
+    "title": "Udvælgelse af respondenter",
+    "section": "Usikkerhed og stikprøvestørrelse",
+    "text": "Usikkerhed og stikprøvestørrelse\n\nUsikkerhed = \\(1.96SE(\\hat{p})\\)\n95% konfidensinterval ved n=100 og p=0.50, \\(0.5 \\pm 0.098 = [0.40 , 0.60]\\)\nTabel fra Bay & Rathlev (2017: 44)"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#jeres-tur-til-at-beregne-estimater",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#jeres-tur-til-at-beregne-estimater",
+    "title": "Udvælgelse af respondenter",
+    "section": "Jeres tur til at beregne estimater",
+    "text": "Jeres tur til at beregne estimater\n\nI skal beregne spredning og 95% konfidensintervaller"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#bekvemmelighedsudvælgelse-1",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#bekvemmelighedsudvælgelse-1",
+    "title": "Udvælgelse af respondenter",
+    "section": "Bekvemmelighedsudvælgelse (1)",
+    "text": "Bekvemmelighedsudvælgelse (1)\n\nBekvemmelighedsudvælgelse: stikprøve som er inden for nem rækkevidde (Bay & Rathlev 2017: 51)\n\nSelvudvælgelse\n\nannonce (opslag, FB, etc.)\nfrivillige udvælger sig selv som stikprøve\nforekommer ofte..\n\nSnowballing\n\nrekruttere enkelte enheder\nformidler videre kontakt\nsvære el. kritiste målgrupper"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#bekvemmelighedsudvælgelse-2",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#bekvemmelighedsudvælgelse-2",
+    "title": "Udvælgelse af respondenter",
+    "section": "Bekvemmelighedsudvælgelse (2)",
+    "text": "Bekvemmelighedsudvælgelse (2)\n\nLigner stikprøve populationen?\nIntet statistisk fundament\nForsøge at sammenligne på observerbare karakteristika\n\nHvad med de uobserverbare?\n\n\n\n\n\nStuderende på videregående uddannelse\n\n\n\nHvis stikprøven er skæv på vigtige karakteristika \\(\\rightarrow\\) skævt resultat"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#kvote-udvælgelse-1",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#kvote-udvælgelse-1",
+    "title": "Udvælgelse af respondenter",
+    "section": "Kvote-udvælgelse (1)",
+    "text": "Kvote-udvælgelse (1)\n\nKvote-udvælgelse\n\nOpstiller kvoter for stikprøve ift. population,\nfx køn og alder\n\nMand, 18-29: 10%\nMand, 30-59: 24%\nMand 60+ : 15%\nKvinde, 18-29: 10%\nKvinde, 30-59: 24%\nKvinde 60+: 17%\n\nUdvælger for at fylde kvoter, ikke-tilfældigt\n\n\n\n\n\nStuderende på videregående uddannelse"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#kvote-udvælgelse-2",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#kvote-udvælgelse-2",
+    "title": "Udvælgelse af respondenter",
+    "section": "Kvote-udvælgelse (2)",
+    "text": "Kvote-udvælgelse (2)\n\nStikprøve ligner population på karakteristika med kvoter\n\nMen hvad med på andre karakterisitka\nFår vi bare de nemme med?\n\nStadig risiko for skæve resultater"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#opsummerende-om-ikke-tilfældig-udvælgelse",
+    "href": "talks/teaching/2021-09-24-ucl/udvælgelse_final.html#opsummerende-om-ikke-tilfældig-udvælgelse",
+    "title": "Udvælgelse af respondenter",
+    "section": "Opsummerende om ikke-tilfældig udvælgelse",
+    "text": "Opsummerende om ikke-tilfældig udvælgelse\n\nVed ikke om udsnit kan bruges til at generalisere til population (Groves et al. 2009: 99)\n\nIngen statistisk basis for at stikprøve kan beskrive population\n\nIngen mulighd for estimere usikkerhed\n\nTypisk nyttig v. pilot\n\nEller andet formål end statistisk generalisering\n\nTilfældig udvælgelse:\n\nStikprøven ligner - sandsynligvis - population\n\nbliver mere repræsentativ, når n \\(\\uparrow\\)\n\nVi kan estimere usikkerhed"
+  },
+  {
+    "objectID": "talks/teaching/2021-08-27-ucl/index.html",
+    "href": "talks/teaching/2021-08-27-ucl/index.html",
+    "title": "How to write good survey questions",
+    "section": "",
+    "text": "SLIDES  EXERCISE 1  EXERCISE 2  EXERCISE 3  EXERCISE 4\n EXERCISE 5\n1-day course held at UCL University College on August 27, from 9 am to 4 pm. This course targets researchers with little familiarity of survey research and serves as an introduction to different question formats, such as factual and attitudinal quesitons, as well as different response scales.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "talks/presentations/2020-08-10-lmdk/index.html",
+    "href": "talks/presentations/2020-08-10-lmdk/index.html",
+    "title": "Quantitative research: Future possibilities",
+    "section": "",
+    "text": "SLIDES\nPresentation slides for a research workshop illustrating possibilities for using quantitative methods in research on learning tools.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "publications/phddissertation/pettersson-2018/index.html",
+    "href": "publications/phddissertation/pettersson-2018/index.html",
+    "title": "Identity in Political Opinion Formation: How Information Shapes the Influence of Citizens’ Identities on Political Opinions",
+    "section": "",
+    "text": "Published book"
+  },
+  {
+    "objectID": "publications/phddissertation/pettersson-2018/index.html#important-links",
+    "href": "publications/phddissertation/pettersson-2018/index.html#important-links",
+    "title": "Identity in Political Opinion Formation: How Information Shapes the Influence of Citizens’ Identities on Political Opinions",
+    "section": "",
+    "text": "Published book"
+  },
+  {
+    "objectID": "publications/phddissertation/pettersson-2018/index.html#about-the-dissertation",
+    "href": "publications/phddissertation/pettersson-2018/index.html#about-the-dissertation",
+    "title": "Identity in Political Opinion Formation: How Information Shapes the Influence of Citizens’ Identities on Political Opinions",
+    "section": "About the dissertation",
+    "text": "About the dissertation\nThis dissertation advances our existing understanding of the conditions under which citizens’ identities affect their political opinions and evaluations. Citizens’ identities based on attachments to groups such as ethnicity, party or other groups are often portrayed as an important explanation for their opinion about political issues. However, little is known about when citizens’ identities actually become important and shape their views on a specific issue.\n\nBased on a series of studies using quasi-experiments with rolling cross-sectional data and randomized survey-experiments, the dissertation shows that identities shape people’s opinion on a political issue when they receive information that connects the issue to their group’s interest. Furthermore, the dissertation examines how potent events such as a group-led rally or arguments from policy debates can clarify that a group’s interest is at stake on a political issue and thereby make an identity important to citizens’ opinion. Combined, these findings shed new light on how information from the political context – both from events and policy arguments – plays a key role in shaping whether citizens’ identities affect their opinion on political issues.\n\nThis dissertation will be of interest to all who care about identities, public opinion formation and the role of political communication in identity politics."
+  },
+  {
+    "objectID": "publications/phddissertation/pettersson-2018/index.html#citation",
+    "href": "publications/phddissertation/pettersson-2018/index.html#citation",
+    "title": "Identity in Political Opinion Formation: How Information Shapes the Influence of Citizens’ Identities on Political Opinions",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero  \n\n@book{pettersson2018,\n  author    = {Morten Pettersson},\n  title     = {Identity in Political Opinion Formation: How Information Shapes the Influence of Citizens' Identities on Political Opinions},\n  publisher = {Politica},\n  year      = {2018},\n  isbn      = {978-87-7335-240-3},\n  month     = {12},\n  day       = {10},\n  pages     = {66}\n}"
+  },
+  {
+    "objectID": "publications/books/hansen-hansen-pettersson-2022/index.html",
+    "href": "publications/books/hansen-hansen-pettersson-2022/index.html",
+    "title": "Børn og unges læsning 2021",
+    "section": "",
+    "text": "Published book\nTecnical report\nAppendix\nResponse distributions"
+  },
+  {
+    "objectID": "publications/books/hansen-hansen-pettersson-2022/index.html#important-links",
+    "href": "publications/books/hansen-hansen-pettersson-2022/index.html#important-links",
+    "title": "Børn og unges læsning 2021",
+    "section": "",
+    "text": "Published book\nTecnical report\nAppendix\nResponse distributions"
+  },
+  {
+    "objectID": "publications/books/hansen-hansen-pettersson-2022/index.html#about-the-book",
+    "href": "publications/books/hansen-hansen-pettersson-2022/index.html#about-the-book",
+    "title": "Børn og unges læsning 2021",
+    "section": "About the book",
+    "text": "About the book\nBørn og unge læser mindre og mindre. Sådan har det lydt gennem flere år, men i 2021 ser den negative udvikling ud til at være stoppet. Børn og unge læser lige så ofte i fritiden, som de gjorde i 2017. Det viser undersøgelsen Børn og unges læsning 2021, der dog også peger på, at børns lyst til at læse for sjov falder, jo ældre de bliver. Det gælder til gengæld ikke, når de læser for at lære noget. Her er læselysten mere stabil.\n\nDigitale medier er blevet en naturlig del af børns læsekultur. Selvom de fleste stadig foretrækker at læse i en fysisk bog, er brugen af e- og lydbøger steget markant, og flere finder inspiration til læsning fra streaming og sociale medier. I det hele taget bruger børn og unge markant mere tid på digitale aktiviteter end i 2017, og det går hånd i hånd med mindre fritidslæsning og nedsat evne til at være opmærksom.\n\nBørn og unges læsning 2021 tegner et alsidigt og nuanceret billede af børn og unges læse- og medievaner og giver samtidig faglige anbefalinger og inspiration til, hvordan skoler og biblioteker kan styrke børn og unges læsning.\n\nCenter for Anvendt Skoleforskning har gennemført undersøgelsen, Børn og unges læsning 2021, som del af udviklingsprojektet Ny viden: Børn og unges læseglæde og læsefællesskaber, der er ledet af Tænketanken Fremtidens Biblioteker."
+  },
+  {
+    "objectID": "publications/books/hansen-hansen-pettersson-2022/index.html#citation",
+    "href": "publications/books/hansen-hansen-pettersson-2022/index.html#citation",
+    "title": "Børn og unges læsning 2021",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero  \n\n@book{hansenEtAl2022,\n  author    = {Stine Reinholdt Hansen and Thomas Illum Hansen and Morten Pettersson},\n  title     = {Børn og unges læsning 2021},\n  publisher = {Aarhus Universitetsforlag},\n  year      = {2022},\n  isbn      = {978-87-7219-920-7},\n  month     = {06},\n  day       = {07},\n  pages     = {172}\n}"
+  },
+  {
+    "objectID": "publications/books/christensen-bundsgaard-kjeldsen-pettersson-2021/index.html",
+    "href": "publications/books/christensen-bundsgaard-kjeldsen-pettersson-2021/index.html",
+    "title": "It i skolen under coronapandemien",
+    "section": "",
+    "text": "Published book"
+  },
+  {
+    "objectID": "publications/books/christensen-bundsgaard-kjeldsen-pettersson-2021/index.html#important-links",
+    "href": "publications/books/christensen-bundsgaard-kjeldsen-pettersson-2021/index.html#important-links",
+    "title": "It i skolen under coronapandemien",
+    "section": "",
+    "text": "Published book"
+  },
+  {
+    "objectID": "publications/books/christensen-bundsgaard-kjeldsen-pettersson-2021/index.html#about-the-book",
+    "href": "publications/books/christensen-bundsgaard-kjeldsen-pettersson-2021/index.html#about-the-book",
+    "title": "It i skolen under coronapandemien",
+    "section": "About the book",
+    "text": "About the book\nDanske skoleelever har fået mere digital undervisning. Sådan lyder konklusionen i International Computer and Information Literacy Study Teacher Panel (ICILS TP), der har undersøgt udviklingen i lærernes brug af og holdning til it i skolen under coronapandemien. Resultatet er måske ikke så overraskende, i betragtning af at skolerne blev lukket og undervisningen flyttet fra fysiske klasselokaler til virtuel nødundervisning.\n\nDen øgede brug af it og digital fjernundervisning har dog ikke gjort lærerne mere positive over for it. Til gengæld samarbejder de i langt højere grad end tidligere om, hvordan de anvender it i undervisningen, og de er blevet mere opmærksomme på at hjælpe eleverne med at opnå den fornødne computer- og informationskompetence til at kunne klare sig i en digitaliseret verden.\n\nI bogen It i skolen under coronapandemien præsenterer forskerne resultaterne af ICILS TP-undersøgelsen. De fortæller om undersøgelsens baggrund og formål, om udviklingen siden ICILS-undersøgelsen i 2018 samt om mulige sammenhænge mellem og årsager til resultaterne."
+  },
+  {
+    "objectID": "publications/books/christensen-bundsgaard-kjeldsen-pettersson-2021/index.html#citation",
+    "href": "publications/books/christensen-bundsgaard-kjeldsen-pettersson-2021/index.html#citation",
+    "title": "It i skolen under coronapandemien",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero  \n\n@book{christensenEtAl2021icilscovid,\n  author    = {Jacob Christensen and Jeppe Bundsgaard and Christian Kjeldsen and Morten Pettersson},\n  title     = {It i skolen under coronapandemien},\n  publisher = {Aarhus Universitetsforlag},\n  year      = {2021},\n  isbn      = {978-87-7219-699-2},\n  month     = {12},\n  day       = {9},\n  pages     = {146}\n}"
+  },
+  {
+    "objectID": "publications/books/bundgaard-bindslev-caeli-pettersson-rusmann-2019/index.html",
+    "href": "publications/books/bundgaard-bindslev-caeli-pettersson-rusmann-2019/index.html",
+    "title": "Danske elevers teknologiforståelse: Resultater fra ICILS-undersøgelsen 2018",
+    "section": "",
+    "text": "Published book"
+  },
+  {
+    "objectID": "publications/books/bundgaard-bindslev-caeli-pettersson-rusmann-2019/index.html#important-links",
+    "href": "publications/books/bundgaard-bindslev-caeli-pettersson-rusmann-2019/index.html#important-links",
+    "title": "Danske elevers teknologiforståelse: Resultater fra ICILS-undersøgelsen 2018",
+    "section": "",
+    "text": "Published book"
+  },
+  {
+    "objectID": "publications/books/bundgaard-bindslev-caeli-pettersson-rusmann-2019/index.html#about-the-book",
+    "href": "publications/books/bundgaard-bindslev-caeli-pettersson-rusmann-2019/index.html#about-the-book",
+    "title": "Danske elevers teknologiforståelse: Resultater fra ICILS-undersøgelsen 2018",
+    "section": "About the book",
+    "text": "About the book\nDanske 8.-klasseelevers computer- og informationskompetencer er klart forbedret inden for de seneste fem år. Det viser resultaterne af International Computer and Information Literacy Study (ICILS) fra 2018. Faktisk præsterer de danske unge bedst af alle elever i de 12 deltagerlande, og de placerer sig også i toppen når det gælder kompetencer i datalogisk tænkning.\n\nSelv om der er meget at glæde sig over, så viser undersøgelsen også at en stor gruppe elever har svært ved at forholde sig kritisk til digitale teknologier og deres brug af dem. Desuden er der meget store forskelle mellem pigers og drenges opfattelse af deres egne it-kompetencer og deres forestillinger om et fremtidigt arbejdsliv med it. Derfor er der fortsat behov for at styrke og udvikle de unges teknologiforståelse i skolen.\n\nI bogen Danske elevers teknologiforståelse præsenterer forskerne resultaterne af ICILS-undersøgelsen. De fortæller om undersøgelsens baggrund og formål, om udviklingen siden første undersøgelse i 2013 samt om mulige sammenhænge og årsager til resultaterne."
+  },
+  {
+    "objectID": "publications/books/bundgaard-bindslev-caeli-pettersson-rusmann-2019/index.html#citation",
+    "href": "publications/books/bundgaard-bindslev-caeli-pettersson-rusmann-2019/index.html#citation",
+    "title": "Danske elevers teknologiforståelse: Resultater fra ICILS-undersøgelsen 2018",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero  \n\n@book{bundsgaardEtAl2019icils,\n  author    = {Jeppe Bundsgaard and Sofie Bindslev and Elisa Nadire Caeli and Morten Pettersson and Anna Rusmann},\n  title     = {Danske elevers teknologiforståelse: Resultater fra ICILS-undersøgelsen 2018},\n  publisher = {Aarhus Universitetsforlag},\n  year      = {2019},\n  isbn      = {978-87-7219-060-0},\n  month     = {11},\n  day       = {05},\n  pages     = {244}\n}"
+  },
+  {
+    "objectID": "publications/bookchapters/pettersson-2021/index.html",
+    "href": "publications/bookchapters/pettersson-2021/index.html",
+    "title": "Udviklingen i lærernes holdning til it",
+    "section": "",
+    "text": "Chapter 6, pp. 85-100"
+  },
+  {
+    "objectID": "publications/bookchapters/pettersson-2021/index.html#important-links",
+    "href": "publications/bookchapters/pettersson-2021/index.html#important-links",
+    "title": "Udviklingen i lærernes holdning til it",
+    "section": "",
+    "text": "Chapter 6, pp. 85-100"
+  },
+  {
+    "objectID": "publications/bookchapters/pettersson-2021/index.html#background",
+    "href": "publications/bookchapters/pettersson-2021/index.html#background",
+    "title": "Udviklingen i lærernes holdning til it",
+    "section": "Background",
+    "text": "Background\nDa den danske grundskole blev lukket ned i midten af marts 2020 – og senere igen d. 21. december – måtte klasseværelset udskiftes med fjernundervisning. Danske lærere stod bestemt ikke uden ballast for at løfte opgaven digitalt. I 2018 var 7 ud af 10 lærere vant til at bruge it i undervisningen dagligt (Bundsgaard m.fl. 2019, 146), og tal indikerer, at mange har skruet op for brugen af it i perioden (se kap. 4). Der er derfor grund til at tro, at nedlukningen har øget lærernes berøring med at bruge it i undervisningen, dets potentialer og begrænsninger.\n\nDette kapitel undersøger, hvordan danske læreres holdning til it har udviklet sig i respons på coronapandemien. Mere konkret ser vi på skift i lærernes holdning fra 2018 til 2020, hvor lærerne blev geninterviewet under den anden skolenedlukning (se mere om undersøgelsens design i kap. 2). For det første er det interessant at undersøge holdningsudviklingen, da tidligere undersøgelser beskriver, hvordan holdningen til it har været under forandring. Fra 2013 til 2018 blev danske lærere mere kritiske over for brugen af it (Bundsgaard m.fl. 2019, 123). Det er således interessant, om der fortsat har været skred i lærernes holdning i forbindelse med corona.\n\nDet er for det andet interessant at undersøge holdningsudviklingen, fordi fagfællebedømte studier indikerer, at lærere er blevet mere negativt indstillet til brug af it qua deres erfaringer under corona (se kap. 3.2). Men hvorvidt der har været genuine holdningsskift i Danmark, ved vi ikke, da disse studier ikke har været repræsentative, gennemført i Danmark eller i stand til at belyse om holdninger reelt har ændret sig fra før til under nedlukningen.\n\nFor det tredje er det spændende at undersøge holdningsændringer med ICILS Teacher Panel. Vi har for første gang mulighed for at følge den enkelte lærers holdning over tid og ikke kun den samlede læreropinion. Derfor kan vi få unik indsigt i, hvor stabile eller foranderlige lærernes holdninger til it egentlig er.\n\nKort fortalt sætter dette kapitel lærernes holdning til it under lup i lyset af coronapandemien. Hvilke holdninger har flyttet sig? I hvilket omfang har lærernes holdninger forandret sig eller været stabile? Og hvem er det egentlig, der har ændret holdning – hvis overhovedet nogen?"
+  },
+  {
+    "objectID": "publications/bookchapters/pettersson-2021/index.html#key-figure",
+    "href": "publications/bookchapters/pettersson-2021/index.html#key-figure",
+    "title": "Udviklingen i lærernes holdning til it",
+    "section": "Key figure",
+    "text": "Key figure"
+  },
+  {
+    "objectID": "publications/bookchapters/pettersson-2021/index.html#citation",
+    "href": "publications/bookchapters/pettersson-2021/index.html#citation",
+    "title": "Udviklingen i lærernes holdning til it",
+    "section": "Citation",
+    "text": "Citation\n\n\n\n@incollection{pettersson2021icils,\n  author    = {Morten Pettersson},\n  title     = {Udviklingen i lærernes holdninger til it},\n  booktitle = {It i skolen under coronapandemien},\n  editor    = {Christensen, J. and Bundsgaard, J. and Kjeldsen, C. and Pettersson, M.},\n  publisher = {Aarhus Universitetsforlag},\n  year      = {2021},\n  pages     = {85--100},\n  isbn      = {978-87-7219-699-2}\n}"
+  },
+  {
+    "objectID": "publications/bookchapters/christensen-bundsgaard-pettersson-2021/index.html",
+    "href": "publications/bookchapters/christensen-bundsgaard-pettersson-2021/index.html",
+    "title": "Centrale resultater fra lærerspørgeskemaet",
+    "section": "",
+    "text": "Chapter 4, pp. 45-60"
+  },
+  {
+    "objectID": "publications/bookchapters/christensen-bundsgaard-pettersson-2021/index.html#important-links",
+    "href": "publications/bookchapters/christensen-bundsgaard-pettersson-2021/index.html#important-links",
+    "title": "Centrale resultater fra lærerspørgeskemaet",
+    "section": "",
+    "text": "Chapter 4, pp. 45-60"
+  },
+  {
+    "objectID": "publications/bookchapters/christensen-bundsgaard-pettersson-2021/index.html#background",
+    "href": "publications/bookchapters/christensen-bundsgaard-pettersson-2021/index.html#background",
+    "title": "Centrale resultater fra lærerspørgeskemaet",
+    "section": "Background",
+    "text": "Background\nI dette kapitel præsenterer vi et udvalg af centrale resultater fra lærernes besvarelser i ICILS TP med et fokus på, hvilken udvikling (eller stilstand) der har været oven på coronapandemien. Vores fokus vil være på de danske resultater, men vi vil også sammenligne med den udvikling, der kan iagttages i de to andre lande, som har deltaget i ICILS TP, Finland og Uruguay. Læsere, der er interesserede i resultater, vi ikke fremlægger her, henvises til den internationale rapport (Strietholt m.fl. 2021). De to følgende kapitler går i dybden med henholdsvis lærernes brug af it-redskaber i undervisningen og udviklingen i deres holdninger til it, så disse resultater er ikke omtalt her."
+  },
+  {
+    "objectID": "publications/bookchapters/christensen-bundsgaard-pettersson-2021/index.html#key-figure",
+    "href": "publications/bookchapters/christensen-bundsgaard-pettersson-2021/index.html#key-figure",
+    "title": "Centrale resultater fra lærerspørgeskemaet",
+    "section": "Key figure",
+    "text": "Key figure"
+  },
+  {
+    "objectID": "publications/bookchapters/christensen-bundsgaard-pettersson-2021/index.html#citation",
+    "href": "publications/bookchapters/christensen-bundsgaard-pettersson-2021/index.html#citation",
+    "title": "Centrale resultater fra lærerspørgeskemaet",
+    "section": "Citation",
+    "text": "Citation\n\n\n\n@incollection{christensenEtAl2021icils,\n  author    = {Jacob Christensen and Jeppe Bundsgaard and Morten Pettersson},\n  title     = {Centrale resultater fra lærerspørgeskemaet},\n  booktitle = {It i skolen under coronapandemien},\n  editor    = {Christensen, J. and Bundsgaard, J. and Kjeldsen, C. and Pettersson, M.},\n  publisher = {Aarhus Universitetsforlag},\n  year      = {2021},\n  pages     = {45--60},\n  isbn      = {978-87-7219-699-2}\n}"
+  },
+  {
+    "objectID": "publications/articles/nielsen-pettersson-toft-lindemann-nielsen-2024/index.html",
+    "href": "publications/articles/nielsen-pettersson-toft-lindemann-nielsen-2024/index.html",
+    "title": "Development and Initial Validation of the Practice Self-Efficacy Questionnaire (PSEQ) for Student Teachers",
+    "section": "",
+    "text": "Paper (published)\nAppendix (see pp. 32-53)"
+  },
+  {
+    "objectID": "publications/articles/nielsen-pettersson-toft-lindemann-nielsen-2024/index.html#important-links",
+    "href": "publications/articles/nielsen-pettersson-toft-lindemann-nielsen-2024/index.html#important-links",
+    "title": "Development and Initial Validation of the Practice Self-Efficacy Questionnaire (PSEQ) for Student Teachers",
+    "section": "",
+    "text": "Paper (published)\nAppendix (see pp. 32-53)"
+  },
+  {
+    "objectID": "publications/articles/nielsen-pettersson-toft-lindemann-nielsen-2024/index.html#abstract",
+    "href": "publications/articles/nielsen-pettersson-toft-lindemann-nielsen-2024/index.html#abstract",
+    "title": "Development and Initial Validation of the Practice Self-Efficacy Questionnaire (PSEQ) for Student Teachers",
+    "section": "Abstract",
+    "text": "Abstract\nField practice is seen as vital for building student teachers’ skills and confidence in their abilities to engage in teaching practices. Previous research evaluates student teachers’ self-efficacy with instruments for fully trained teachers in real school contexts, risking responses that inaccurately reflect or even misrepresent their true self-efficacy for teaching practices. The present study introduces the Practice Self-Efficacy Questionnaire (PSEQ), a targeted instrument to measure student teachers’ self-efficacy in field practice and examines its validity. The study utilizes qualitative data from various stakeholders to develop a 40-item multidimensional instrument measuring seven practice self-efficacy dimensions. Item analyses by Rasch models were conducted with a sample of 303 year-one student teachers, a third of which had prior field practice experience. Two subscales fitted the pure Rasch model, two subscales each had three locally dependent items, two subscales had two locally dependent items, and the last subscale had one item that functioned differentially in relation to prior teaching experience. Criterion validity related to prior teaching experience confirmed expectations, showing that more experienced students scored higher across all sub-constructs. Targeting of the subscales to the study population was good to excellent, while reliability was less than satisfactory for two of the subscales."
+  },
+  {
+    "objectID": "publications/articles/nielsen-pettersson-toft-lindemann-nielsen-2024/index.html#key-table",
+    "href": "publications/articles/nielsen-pettersson-toft-lindemann-nielsen-2024/index.html#key-table",
+    "title": "Development and Initial Validation of the Practice Self-Efficacy Questionnaire (PSEQ) for Student Teachers",
+    "section": "Key table",
+    "text": "Key table\n\n\n\nTable 2: Global Tests of Homogeneity and Invariance for the four Teaching-Related PSE Subscales of the PSEQ under the final RMs or GLLRMs"
+  },
+  {
+    "objectID": "publications/articles/nielsen-pettersson-toft-lindemann-nielsen-2024/index.html#citation",
+    "href": "publications/articles/nielsen-pettersson-toft-lindemann-nielsen-2024/index.html#citation",
+    "title": "Development and Initial Validation of the Practice Self-Efficacy Questionnaire (PSEQ) for Student Teachers",
+    "section": "Citation",
+    "text": "Citation\n\nAdd to Zotero \n\n@article{NielsenEtAl2024PSEQ,\n    Author = {Tine Nielsen and Morten Pettersson and Line Toft and Dag Munk Lindemann and Emma Heise Nielsen},\n    Doi = {10.61186/emp.2024.5},\n    Journal = {Educational Methods & Psychometrics},\n    Day = {4},\n    Month = {8},\n    Pages = {1--53},\n    Title = {Development and Initial Validation of the Practice Self-Efficacy Questionnaire (PSEQ) for Student Teachers},\n    Volume = {2},\n    Year = {2024}}"
+  },
+  {
+    "objectID": "publications/articles/nielsen-lindemann-toft-pettersson-nielsen-larsen-2024/index.html",
+    "href": "publications/articles/nielsen-lindemann-toft-pettersson-nielsen-larsen-2024/index.html",
+    "title": "Teacher and teaching-related practices student teachers may have difficulty believing they can enact/engage in while in field practice: perspectives from student teachers and teachers in field-practice schools",
+    "section": "",
+    "text": "Paper (published)\nAppendix (see p. 19)"
+  },
+  {
+    "objectID": "publications/articles/nielsen-lindemann-toft-pettersson-nielsen-larsen-2024/index.html#important-links",
+    "href": "publications/articles/nielsen-lindemann-toft-pettersson-nielsen-larsen-2024/index.html#important-links",
+    "title": "Teacher and teaching-related practices student teachers may have difficulty believing they can enact/engage in while in field practice: perspectives from student teachers and teachers in field-practice schools",
+    "section": "",
+    "text": "Paper (published)\nAppendix (see p. 19)"
+  },
+  {
+    "objectID": "publications/articles/nielsen-lindemann-toft-pettersson-nielsen-larsen-2024/index.html#abstract",
+    "href": "publications/articles/nielsen-lindemann-toft-pettersson-nielsen-larsen-2024/index.html#abstract",
+    "title": "Teacher and teaching-related practices student teachers may have difficulty believing they can enact/engage in while in field practice: perspectives from student teachers and teachers in field-practice schools",
+    "section": "Abstract",
+    "text": "Abstract\nField practice is pivotal in teacher education, serving both as a bridge connecting the theoretical and practical dimensions of the teaching profession in real-world schools, and as a place for acquiring the complex core skills of the profession in their own right. While prior work has mainly explored general teacher self-efficacy, or broad student-related concerns in field practice, there is surprisingly little knowledge of the specific teacher and teaching-related practices that might challenge student teachers during field practice. This study aims to address this gap by exploring the issue both from the student teacher and the field-practice teacher perspective. Utilizing focus groups and individual interviews with students and field-practice teachers, the study employs content analysis, and an innovative agreement circle to identify which practices students may doubt they can enact/engage in while in field practice. The findings highlight four main areas of concern stemming from both students and field practice teachers: adaptability in teaching; balancing subject knowledge with pedagogical competence; classroom leadership; and teaching independently. The study also uncovers discrepancies between student teachers, who are preoccupied with their teaching performance, and field-practice teachers, who also emphasize the importance of collaborative practices with, for example, parents. The study opens a new field of inquiry and is the first step towards a theory of practice self-efficacy in education. Future research could focus on creating measurement tools to evaluate student teacher efficacy in field practice within the four identified areas, thereby enabling identification of early challenges, assessment of field-practice effectiveness, and the provision of tailored field-practice preparation."
+  },
+  {
+    "objectID": "publications/articles/nielsen-lindemann-toft-pettersson-nielsen-larsen-2024/index.html#key-figure",
+    "href": "publications/articles/nielsen-lindemann-toft-pettersson-nielsen-larsen-2024/index.html#key-figure",
+    "title": "Teacher and teaching-related practices student teachers may have difficulty believing they can enact/engage in while in field practice: perspectives from student teachers and teachers in field-practice schools",
+    "section": "Key figure",
+    "text": "Key figure\n\n\n\nFigure 1: Teacher and teaching-related practices mentioned by informants"
+  },
+  {
+    "objectID": "publications/articles/nielsen-lindemann-toft-pettersson-nielsen-larsen-2024/index.html#citation",
+    "href": "publications/articles/nielsen-lindemann-toft-pettersson-nielsen-larsen-2024/index.html#citation",
+    "title": "Teacher and teaching-related practices student teachers may have difficulty believing they can enact/engage in while in field practice: perspectives from student teachers and teachers in field-practice schools",
+    "section": "Citation",
+    "text": "Citation\n\nAdd to Zotero \n\n@article{NielsenEtAl2024TeachingPractices,\n    Author = {Tine Nielsen and Dag Munk Lindemann and Line Toft and Morten Pettersson and Laura Schou Jensen and Emma Heise Nielsen and Gitte Gorm Larsen},\n    Doi = {10.23865/nse.v44.6190},\n    Journal = {Nordic Studies in Education},\n    Day = {10},\n    Month = {6},\n    Pages = {103--121},\n    Title = {Teacher and teaching-related practices student teachers may have difficulty believing they can enact/engage in while in field practice: perspectives from student teachers and teachers in field-practice schools},\n    Volume = {44},\n    Number = {2},\n    Year = {2024}}"
+  },
+  {
+    "objectID": "publications/articles/elklit-pettersson-petersen-nielsen-2024/index.html",
+    "href": "publications/articles/elklit-pettersson-petersen-nielsen-2024/index.html",
+    "title": "Is there consensus on child violence exposure measures? A study of six recommended instruments",
+    "section": "",
+    "text": "Paper (published)\nAppendix"
+  },
+  {
+    "objectID": "publications/articles/elklit-pettersson-petersen-nielsen-2024/index.html#important-links",
+    "href": "publications/articles/elklit-pettersson-petersen-nielsen-2024/index.html#important-links",
+    "title": "Is there consensus on child violence exposure measures? A study of six recommended instruments",
+    "section": "",
+    "text": "Paper (published)\nAppendix"
+  },
+  {
+    "objectID": "publications/articles/elklit-pettersson-petersen-nielsen-2024/index.html#abstract",
+    "href": "publications/articles/elklit-pettersson-petersen-nielsen-2024/index.html#abstract",
+    "title": "Is there consensus on child violence exposure measures? A study of six recommended instruments",
+    "section": "Abstract",
+    "text": "Abstract\nBackground: International research has established that children and adolescents are at high risk for being exposed to violence. A systematic review published in 2023 recommended six child and adolescent self-report violence against children (VAC) measures, based on their psychometric properties, in a systematic COnsensus-based Standards for the selection of health Measurement INstruments (COSMIN) review. However, the degree of overlap and heterogeneity was not part of the analysis.\nObjective: To compare the six measures with respect to item overlap and differences concerning specification of exposure dimensions.\nMethod: A content analysis of the original 174 items resulted in a reduction to 38 unique items. These items were organized visually in a co-occurrence circle using an adapted version of Fried’s R code. Furthermore, a pairwise comparison of event lists was performed using the Jaccard index.\nResults: There was a modest overlap among the six measures. Only one item was present in all six measures, only two items were present in four measures, and 78% of the items were present in just one or two measures. The overall overlap between the six measures was 25%.\nConclusions: The lack of overlap among measures reflects a heterogeneity of definitions and purposes. It also impedes progress in research, as comparisons between various studies are difficult to make in a valid and reliable way. The lack of consensus also delays efficient political initiatives, because solid, consensual knowledge about the prevalence of VAC does not exist."
+  },
+  {
+    "objectID": "publications/articles/elklit-pettersson-petersen-nielsen-2024/index.html#key-figure",
+    "href": "publications/articles/elklit-pettersson-petersen-nielsen-2024/index.html#key-figure",
+    "title": "Is there consensus on child violence exposure measures? A study of six recommended instruments",
+    "section": "Key figure",
+    "text": "Key figure\n\n\n\nFigure 1. Overlap of 38 pure events in six traumatic event lists. JVQ = Juvenile Victimization Questionnaire; ICAST-C = ISPCAN Child Abuse Screening Tool – Child version; CTS-PC = Parent–Child Conflict Tactics Scale; CTQ = Childhood Trauma Questionnaire; CECA.Q = Childhood Experiences of Care and Abuse Questionnaire; ACE = Adverse Childhood Experiences."
+  },
+  {
+    "objectID": "publications/articles/elklit-pettersson-petersen-nielsen-2024/index.html#citation",
+    "href": "publications/articles/elklit-pettersson-petersen-nielsen-2024/index.html#citation",
+    "title": "Is there consensus on child violence exposure measures? A study of six recommended instruments",
+    "section": "Citation",
+    "text": "Citation\n\nAdd to Zotero \n\n@article{ElklitEtAl2024EJP,\n    Author = {Ask Elklit and Morten Pettersson and Amalie Salbøg Petersen and Tine Nielsen},\n    Doi = {10.1080/20008066.2024.2392414},\n    Journal = {European Journal of Psychotraumatology},\n    Day = {28},\n    Month = {8},\n    Pages = {1--10},\n    Title = {Is there consensus on child violence exposure measures? A study of six recommended instruments},\n    Volume = {15},\n    Number = {1},\n    Year = {2024}}"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Morten Pettersson",
+    "section": "",
+    "text": "I’m an researcher in the Department of Applied Research in Education and Social Science at UCL University College. I earned my PhD in Political Science from Aarhus University in 2018, with a stay at the London School of Economics and Political Science.\n\nI’m passionate about using quantitative methods, R, and the tidyverse to explore questions with societal impact, currently focusing on reading motivation, digital learning tools, and pre-service teachers. I also teach courses on social science questionnaires, sampling, and statistics!\n\nFeel free to browse my website to see what I’ve been up to!"
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Morten Pettersson",
+    "section": "",
+    "text": "I’m an researcher in the Department of Applied Research in Education and Social Science at UCL University College. I earned my PhD in Political Science from Aarhus University in 2018, with a stay at the London School of Economics and Political Science.\n\nI’m passionate about using quantitative methods, R, and the tidyverse to explore questions with societal impact, currently focusing on reading motivation, digital learning tools, and pre-service teachers. I also teach courses on social science questionnaires, sampling, and statistics!\n\nFeel free to browse my website to see what I’ve been up to!"
+  },
+  {
+    "objectID": "index.html#working-papers",
+    "href": "index.html#working-papers",
+    "title": "Morten Pettersson",
+    "section": "Working papers",
+    "text": "Working papers\n\n\nWithin and Across Borders: Validating the Intrinsic Reading Motivation Scale in PIRLS\nConference poster\n\n\nIntrinsic Reading Motivation: A New Measure for Grade 4\nWith Tine Nielsen and Thomas Illum Hansen\n\n\nValidating and Extending the Intrinsic Motivation Subscales from the Reading Motivation Questionnaire in Grade 4\n\n\nDifferences in Risk Assessments Between and Within Professional Groups\nWith Christian Martin Bächler\n\n\nEffects of an Applicable Educative Teacher Guide\nWith Stig Toke Gissel"
+  },
+  {
+    "objectID": "blog/third-post/index.html",
+    "href": "blog/third-post/index.html",
+    "title": "Third Blog Post",
+    "section": "",
+    "text": "The source for any page in your website could also be a Jupyter Notebook. This one is third-post/index.ipynb.\nHere’s an example I borrowed from the Seaborn docs:\n\nimport seaborn as sns\n\nsns.set_theme(style=\"whitegrid\")\n\n# Load the diamonds dataset\ndiamonds = sns.load_dataset(\"diamonds\")\n\n# Plot the distribution of clarity ratings, conditional on carat\nsns.displot(\n    data=diamonds,\n    x=\"carat\", hue=\"cut\",\n    kind=\"kde\", height=4, aspect=1.5,\n    multiple=\"fill\", clip=(0, None),\n    palette=\"ch:rot=-.25,hue=1,light=.75\",   \n)\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "blog/first-post/index.html",
+    "href": "blog/first-post/index.html",
+    "title": "First Post",
+    "section": "",
+    "text": "Sed risus ultricies tristique nulla aliquet. Neque volutpat ac tincidunt vitae semper quis lectus nulla.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim sed faucibus turpis in eu mi bibendum neque. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Velit sed ullamcorper morbi tincidunt ornare massa. Sagittis id consectetur purus ut faucibus pulvinar elementum integer. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Lobortis feugiat vivamus at augue eget arcu. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Mauris a diam maecenas sed enim ut sem viverra aliquet. Enim ut tellus elementum sagittis vitae et leo duis. Molestie at elementum eu facilisis sed odio morbi quis commodo. Sapien pellentesque habitant morbi tristique senectus. Quam vulputate dignissim suspendisse in est. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget.\nVelit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Viverra mauris in aliquam sem fringilla ut morbi tincidunt augue. Tortor at auctor urna nunc id. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Aliquet nibh praesent tristique magna sit amet purus. Tristique senectus et netus et malesuada fames ac turpis. Hac habitasse platea dictumst quisque. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Iaculis at erat pellentesque adipiscing. Cras tincidunt lobortis feugiat vivamus. Nisi est sit amet facilisis magna etiam. Pharetra pharetra massa massa ultricies mi quis hendrerit. Vitae sapien pellentesque habitant morbi tristique senectus. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "blog/second-post/index.html",
+    "href": "blog/second-post/index.html",
+    "title": "Second Post",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.\nPhasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV  \n  \n\n\n\n  \n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Predicting House Prices with Machine Learning\n\n\n\nPython\n\nMachine Learning\n\nData Cleaning\n\n\n\nThis project involves using machine learning algorithms to predict house prices based on various features such as location, size, and amenities. It includes data cleaning, feature engineering, and model selection.\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nCustomer Segmentation Using Clustering Techniques\n\n\n\nR\n\nMachine Learning\n\nClustering\n\nStatistical Modelling\n\n\n\nThis project focuses on segmenting customers into different groups based on their purchasing behavior and demographics. It uses clustering algorithms like K-means and hierarchical clustering to identify distinct customer segments.\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Global CO2 Emissions\n\n\n\nR\n\nData Visualization\n\nEnvironmental Science\n\n\n\nThis project involves creating visualizations to show trends in global CO2 emissions over time. It includes data extraction from public databases, data cleaning, and using visualization libraries to create interactive charts and graphs.\n\n\n\nJul 1, 2024\n\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "publications/articles/nielsen-jensen-toft-pettersson-2026/index.html",
+    "href": "publications/articles/nielsen-jensen-toft-pettersson-2026/index.html",
+    "title": "Differences Between First- and Second-Year Student Teachers’ Practice Self-Efficacy: A Cross-Sectional Study",
+    "section": "",
+    "text": "Paper (published)\nAppendix"
+  },
+  {
+    "objectID": "publications/articles/nielsen-jensen-toft-pettersson-2026/index.html#important-links",
+    "href": "publications/articles/nielsen-jensen-toft-pettersson-2026/index.html#important-links",
+    "title": "Differences Between First- and Second-Year Student Teachers’ Practice Self-Efficacy: A Cross-Sectional Study",
+    "section": "",
+    "text": "Paper (published)\nAppendix"
+  },
+  {
+    "objectID": "publications/articles/nielsen-jensen-toft-pettersson-2026/index.html#abstract",
+    "href": "publications/articles/nielsen-jensen-toft-pettersson-2026/index.html#abstract",
+    "title": "Differences Between First- and Second-Year Student Teachers’ Practice Self-Efficacy: A Cross-Sectional Study",
+    "section": "Abstract",
+    "text": "Abstract\nDo teacher education programs improve students’ confidence in their field practice teaching skills? Despite a growing interest in how student teachers’ practice self-efficacy (PSE) develops, we know little about the impact of the various components of teacher education programs on PSE. The present study examined whether the first year of teacher education, and particularly the field practice in schools which is directed at training and learning teacher practices, is associated with practice self-efficacy using a targeted measure of PSE for student teachers. Using independent sample t-tests and one-way analysis of variance with survey data from 338 students, we show that second-year students have higher PSE than first-year students on most PSE dimensions, with the largest differences being on the PSE dimensions of Planning and preparation, Teaching in itself, and Evaluation and development. In contrast, first-year students scored higher on Adult collaboration PSE. Further exploratory analyses showed that English majors had lower Planning and preparation and Teaching in itself PSE than other majors, whereas Mathematics majors had higher Adult collaboration PSE. We also conducted item analysis for the purpose of validating the PSE for both firstand second-year students. The findings advance our knowledge of differences in practice self-efficacy over the first year of teacher education."
+  },
+  {
+    "objectID": "publications/articles/nielsen-jensen-toft-pettersson-2026/index.html#key-figure",
+    "href": "publications/articles/nielsen-jensen-toft-pettersson-2026/index.html#key-figure",
+    "title": "Differences Between First- and Second-Year Student Teachers’ Practice Self-Efficacy: A Cross-Sectional Study",
+    "section": "Key figure",
+    "text": "Key figure\n\n\n\nTable 6_ Comparison of PSE subscale scores for 1st- and 2nd-year student teachers by independent sample t-tests."
+  },
+  {
+    "objectID": "publications/articles/nielsen-jensen-toft-pettersson-2026/index.html#citation",
+    "href": "publications/articles/nielsen-jensen-toft-pettersson-2026/index.html#citation",
+    "title": "Differences Between First- and Second-Year Student Teachers’ Practice Self-Efficacy: A Cross-Sectional Study",
+    "section": "Citation",
+    "text": "Citation\n\nAdd to Zotero \n\n@article{NielsenEtAl2026Differences,\n    Author = {Tine Nielsen and Laura Schou Jensen and Line Toft and Morten Pettersson},\n    Doi = {10.3390/psycholint8020024},\n    Journal = {Psychology International},\n    Day = {15},\n    Month = {4},\n    Pages = {24},\n    Title = {Differences Between First- and Second-Year Student Teachers’ Practice Self-Efficacy: A Cross-Sectional Study},\n    Volume = {8},\n    Number = {2},\n    Year = {2026}}"
+  },
+  {
+    "objectID": "publications/articles/nielsen-pettersson-toft-2025/index.html",
+    "href": "publications/articles/nielsen-pettersson-toft-2025/index.html",
+    "title": "Student Teachers’ Practice Self-Efficacy Prior to Their First Field Practice in Schools: Interrelatedness of Subconstructs Within Three Domains of Practice",
+    "section": "",
+    "text": "Paper (published)\nAppendix"
+  },
+  {
+    "objectID": "publications/articles/nielsen-pettersson-toft-2025/index.html#important-links",
+    "href": "publications/articles/nielsen-pettersson-toft-2025/index.html#important-links",
+    "title": "Student Teachers’ Practice Self-Efficacy Prior to Their First Field Practice in Schools: Interrelatedness of Subconstructs Within Three Domains of Practice",
+    "section": "",
+    "text": "Paper (published)\nAppendix"
+  },
+  {
+    "objectID": "publications/articles/nielsen-pettersson-toft-2025/index.html#abstract",
+    "href": "publications/articles/nielsen-pettersson-toft-2025/index.html#abstract",
+    "title": "Student Teachers’ Practice Self-Efficacy Prior to Their First Field Practice in Schools: Interrelatedness of Subconstructs Within Three Domains of Practice",
+    "section": "Abstract",
+    "text": "Abstract\nDeveloping a strong sense of self-efficacy is thought to be decisive for student teachers to help them prepare for challenges in the profession. However, while most recognize that confidence in teaching involves multiple and interrelated dimensions, we know little about the interplay between dimensions, hindering our understanding of how self-efficacy is nurtured and affected. This study examines how different self-efficacy dimensions relate, using a recently developed and targeted measure of Practice Self-Efficacy (PSE) for student teachers. With chain graph models, used on survey data from 405 first-year student teachers from a Danish University College, we find that most, but not all, PSE dimensions are related, with the strongest associations found among dimensions within the Teaching-related domain. Most PSE dimensions were not associated with student teachers’ background characteristics, except for Differentiation PSE and Teaching in itself PSE. Thus, teaching experience prior to teacher education was negatively associated with Differentiation PSE, whereas it was positively associated with Teaching in itself PSE and with differing strengths dependent on chosen teaching major. The results point to possible areas in teacher education where interventions may effectively enhance practice self-efficacy among first-year students."
+  },
+  {
+    "objectID": "publications/articles/nielsen-pettersson-toft-2025/index.html#key-figure",
+    "href": "publications/articles/nielsen-pettersson-toft-2025/index.html#key-figure",
+    "title": "Student Teachers’ Practice Self-Efficacy Prior to Their First Field Practice in Schools: Interrelatedness of Subconstructs Within Three Domains of Practice",
+    "section": "Key figure",
+    "text": "Key figure\n\n\n\nFigure 2: The final chain graph model. Notes. All edges and arrows represent significant conditional associations between variables given the remaining variables (conditional dependence)"
+  },
+  {
+    "objectID": "publications/articles/nielsen-pettersson-toft-2025/index.html#citation",
+    "href": "publications/articles/nielsen-pettersson-toft-2025/index.html#citation",
+    "title": "Student Teachers’ Practice Self-Efficacy Prior to Their First Field Practice in Schools: Interrelatedness of Subconstructs Within Three Domains of Practice",
+    "section": "Citation",
+    "text": "Citation\n\nAdd to Zotero \n\n@article{NielsenEtAl2025Interrelatedness,\n    Author = {Tine Nielsen and Morten Pettersson and Line Toft},\n    Doi = {10.3390/psycholint7030059},\n    Journal = {Psycholoy International},\n    Day = {07},\n    Month = {07},\n    Pages = {21},\n    Title = {Student Teachers’ Practice Self-Efficacy Prior to Their First Field Practice in Schools: Interrelatedness of Subconstructs Within Three Domains of Practice},\n    Volume = {7},\n    Number = {3},\n    Year = {2025}}"
+  },
+  {
+    "objectID": "publications/articles/nielsen-pontoppidan-pettersson-donstrup-kreiner-rayce-2023/index.html",
+    "href": "publications/articles/nielsen-pontoppidan-pettersson-donstrup-kreiner-rayce-2023/index.html",
+    "title": "Measuring child and adolescent well-being in Denmark: Validation and norming of the Danish KIDSCREEN-10 child/adolescent version in a national representative sample of school pupils in grades five through eight",
+    "section": "",
+    "text": "Paper (published)\nAppendix S1\nAppendix S2\nAppendix S3"
+  },
+  {
+    "objectID": "publications/articles/nielsen-pontoppidan-pettersson-donstrup-kreiner-rayce-2023/index.html#important-links",
+    "href": "publications/articles/nielsen-pontoppidan-pettersson-donstrup-kreiner-rayce-2023/index.html#important-links",
+    "title": "Measuring child and adolescent well-being in Denmark: Validation and norming of the Danish KIDSCREEN-10 child/adolescent version in a national representative sample of school pupils in grades five through eight",
+    "section": "",
+    "text": "Paper (published)\nAppendix S1\nAppendix S2\nAppendix S3"
+  },
+  {
+    "objectID": "publications/articles/nielsen-pontoppidan-pettersson-donstrup-kreiner-rayce-2023/index.html#abstract",
+    "href": "publications/articles/nielsen-pontoppidan-pettersson-donstrup-kreiner-rayce-2023/index.html#abstract",
+    "title": "Measuring child and adolescent well-being in Denmark: Validation and norming of the Danish KIDSCREEN-10 child/adolescent version in a national representative sample of school pupils in grades five through eight",
+    "section": "Abstract",
+    "text": "Abstract"
+  },
+  {
+    "objectID": "publications/articles/nielsen-pontoppidan-pettersson-donstrup-kreiner-rayce-2023/index.html#key-figure",
+    "href": "publications/articles/nielsen-pontoppidan-pettersson-donstrup-kreiner-rayce-2023/index.html#key-figure",
+    "title": "Measuring child and adolescent well-being in Denmark: Validation and norming of the Danish KIDSCREEN-10 child/adolescent version in a national representative sample of school pupils in grades five through eight",
+    "section": "Key figure",
+    "text": "Key figure\n\n\n\nFigure 7: Non-fitting model 6 (n = 1651)"
+  },
+  {
+    "objectID": "publications/articles/nielsen-pontoppidan-pettersson-donstrup-kreiner-rayce-2023/index.html#citation",
+    "href": "publications/articles/nielsen-pontoppidan-pettersson-donstrup-kreiner-rayce-2023/index.html#citation",
+    "title": "Measuring child and adolescent well-being in Denmark: Validation and norming of the Danish KIDSCREEN-10 child/adolescent version in a national representative sample of school pupils in grades five through eight",
+    "section": "Citation",
+    "text": "Citation\n\nAdd to Zotero \n\n@article{NielsenEtAl2023PlosOne,\n    Author = {Tine Nielsen and Maiken Pontoppidan and Morten Pettersson and Christina Hauge Donstrup and Svend Kreiner and Signe Boe Rayce },\n    Doi = {10.1371/journal.pone.0291420},\n    Journal = {PLoS One},\n    Day = {08},\n    Month = {09},\n    Pages = {26},\n    Title = {Measuring child and adolescent well-being in Denmark: Validation and norming of the Danish KIDSCREEN-10 child/adolescent version in a national representative sample of school pupils in grades five through eight},\n    Volume = {18},\n    Number = {9},\n    Year = {2023}}"
+  },
+  {
+    "objectID": "publications/bookchapters/gissel-pettersson-buindsgaard-2021/index.html",
+    "href": "publications/bookchapters/gissel-pettersson-buindsgaard-2021/index.html",
+    "title": "Udvikling i lærernes brug af digitale læremidler",
+    "section": "",
+    "text": "Chapter 5, pp. 61-84"
+  },
+  {
+    "objectID": "publications/bookchapters/gissel-pettersson-buindsgaard-2021/index.html#important-links",
+    "href": "publications/bookchapters/gissel-pettersson-buindsgaard-2021/index.html#important-links",
+    "title": "Udvikling i lærernes brug af digitale læremidler",
+    "section": "",
+    "text": "Chapter 5, pp. 61-84"
+  },
+  {
+    "objectID": "publications/bookchapters/gissel-pettersson-buindsgaard-2021/index.html#background",
+    "href": "publications/bookchapters/gissel-pettersson-buindsgaard-2021/index.html#background",
+    "title": "Udvikling i lærernes brug af digitale læremidler",
+    "section": "Background",
+    "text": "Background\nInternationalt set er danske lærere dem, der bruger it mest i undervisningen, sammenlignet med lærere fra de andre deltagende lande, der deltog i ICILS 2018. ICILS-undersøgelsen fra 2018 viste, at 95 procent af de adspurgte danske lærere brugte it mindst en gang ugentligt i undervisningen. I international sammenligning er danske lærere hyppige brugere af it til didaktiske formål. Således angav 72 procent af danske lærere, at de brugte it til undervisning dagligt, hvilket kun russiske lærere (fra Moskva) var på niveau med. De finske lærere brugte it tredjemest (Fraillon m.fl. 2020b). Få lande har desuden i nyere tid set samme stigning i lærere, der ofte bruger it i undervisningen (Bundsgaard m.fl. 2019), og yderligere analyser viser, at flere danske lærere er begyndt at bruge redskaber som fagportaler, digitale læringsspil og regneark (Pettersson og Gissel 2021).\n\nI dette kapitel undersøger vi, hvordan lærernes brug af digitale læremidler i undervisningen har ændret sig fra 2018 til 2020, da lærerne blev geninterviewet under den anden skolenedlukning. Kapitlet lægger først ud med en kritisk diskussion af, hvilke typer af læremidler ICILS undersøger, da vi oplever dette underteoretiseret. Herefter præsenterer vi et andet bud på, hvordan læremidler kan kategoriseres teoretisk. I den empiriske del belyser vi de overordnede skift i lærernes brug af læremidler, sammenligner den danske udvikling internationalt, ligesom vi belyser stabilitet og forandring i lærernes brug af digitale læremidler på individniveau. Afslutningsvis diskuterer vi, hvad resultaterne siger om ændringen i undervisning fra før til under den anden coronanedlukning."
+  },
+  {
+    "objectID": "publications/bookchapters/gissel-pettersson-buindsgaard-2021/index.html#key-figure",
+    "href": "publications/bookchapters/gissel-pettersson-buindsgaard-2021/index.html#key-figure",
+    "title": "Udvikling i lærernes brug af digitale læremidler",
+    "section": "Key figure",
+    "text": "Key figure"
+  },
+  {
+    "objectID": "publications/bookchapters/gissel-pettersson-buindsgaard-2021/index.html#citation",
+    "href": "publications/bookchapters/gissel-pettersson-buindsgaard-2021/index.html#citation",
+    "title": "Udvikling i lærernes brug af digitale læremidler",
+    "section": "Citation",
+    "text": "Citation\n\n\n\n@incollection{gisselEtAl2021icils,\n  author    = {Stig Toke Gissel and Morten Pettersson and Jeppe Bundsgaard},\n  title     = {Udvikling i lærernes brug af digitale læremidler},\n  booktitle = {It i skolen under coronapandemien},\n  editor    = {Christensen, J. and Bundsgaard, J. and Kjeldsen, C. and Pettersson, M.},\n  publisher = {Aarhus Universitetsforlag},\n  year      = {2021},\n  pages     = {61--84},\n  isbn      = {978-87-7219-699-2}\n}"
+  },
+  {
+    "objectID": "publications/bookchapters/pettersson-christensen-bundsgaard-2021/index.html",
+    "href": "publications/bookchapters/pettersson-christensen-bundsgaard-2021/index.html",
+    "title": "Om ICILS-undersøgelsen",
+    "section": "",
+    "text": "Chapter 2, pp. 15-30"
+  },
+  {
+    "objectID": "publications/bookchapters/pettersson-christensen-bundsgaard-2021/index.html#important-links",
+    "href": "publications/bookchapters/pettersson-christensen-bundsgaard-2021/index.html#important-links",
+    "title": "Om ICILS-undersøgelsen",
+    "section": "",
+    "text": "Chapter 2, pp. 15-30"
+  },
+  {
+    "objectID": "publications/bookchapters/pettersson-christensen-bundsgaard-2021/index.html#background",
+    "href": "publications/bookchapters/pettersson-christensen-bundsgaard-2021/index.html#background",
+    "title": "Om ICILS-undersøgelsen",
+    "section": "Background",
+    "text": "Background\nInternational Computer and Information Literacy Study (ICILS) er et studie, der siden 2013 er blevet gennemført hvert femte år af den internationale forskningsorganisation International Association for the Evaluation of Educational Achievement (IEA). I forbindelse med coronapandemien i 2020 stod det klart, at der ville blive brug for viden om, hvordan krisen blev oplevet og havde indvirkning på skolerne over hele verden. IEA igangsatte derfor to studier, et om Responses to Educational Disruption (REDS), som har til hensigt at undersøge, hvordan landene, skolerne og lærerne reagerede på krisen, og hvordan det blev oplevet af elever og lærere, og et studie, der som noget helt unikt kunne undersøge, hvilke konkrete forandringer i opfattelser af og brug af digitale læremidler hos lærerne der kunne tilskrives krisen. Det, at ICILS havde stillet spørgsmål til lærerne i 2018, cirka to år før coronapandemien tog sin begyndelse, betyder at man med god ret kan antage, at forandringer i opfattelsen og brugen af it i vid udstrækning kan tilskrives coronapandemien.\n\nDenne rapport handler om resultaterne fra det studie, som kaldes ICILS Teacher Panel (ICILS TP). ICILS TP genbruger spørgeskemaer fra ICILS 2018 næsten uforandret og stiller spørgsmålene til de samme lærere, it-vejledere og skoleledere for at kunne studere, hvordan udviklingen har været for konkrete personer. For at belaste skolerne mindst muligt blev det besluttet, at kun lærerne, it-vejlederne og skolelederne skulle besvare spørgeskemaerne, og derfor indgår altså ikke resultater fra elevernes test og besvarelse af spørgeskemaer. Eleverne besvarede spørgeskemaer i REDS-undersøgelsen, som vi rapporterer fra omkring årsskiftet 2021-22.\n\nFormålet med ICILS er helt overordnet at studere overgangen til en (antaget) mere teknologibaseret undervisning og læring, set fra lærernes perspektiv. Og dernæst at identificere faktorer, som kan forklare, hvorfor nogle lærere og skoler anvender computere og teknologi med større held og i et større omfang end andre."
+  },
+  {
+    "objectID": "publications/bookchapters/pettersson-christensen-bundsgaard-2021/index.html#key-figure",
+    "href": "publications/bookchapters/pettersson-christensen-bundsgaard-2021/index.html#key-figure",
+    "title": "Om ICILS-undersøgelsen",
+    "section": "Key figure",
+    "text": "Key figure"
+  },
+  {
+    "objectID": "publications/bookchapters/pettersson-christensen-bundsgaard-2021/index.html#citation",
+    "href": "publications/bookchapters/pettersson-christensen-bundsgaard-2021/index.html#citation",
+    "title": "Om ICILS-undersøgelsen",
+    "section": "Citation",
+    "text": "Citation\n\n\n\n@incollection{petterssonEtAl2021icils,\n  author    = {Pettersson, M. and Christensen, J. and Bundsgaard, J.},\n  title     = {Om {ICILS}-undersøgelsen},\n  booktitle = {It i skolen under coronapandemien},\n  editor    = {Christensen, J. and Bundsgaard, J. and Kjeldsen, C. and Pettersson, M.},\n  publisher = {Aarhus Universitetsforlag},\n  year      = {2021},\n  pages     = {15--30},\n  isbn      = {978-87-7219-699-2}\n}"
+  },
+  {
+    "objectID": "publications/books/bundsgaard-pettersson-puck-2014/index.html",
+    "href": "publications/books/bundsgaard-pettersson-puck-2014/index.html",
+    "title": "Digitale kompetencer: It i danske skoler i et internationalt perspektiv",
+    "section": "",
+    "text": "Danske elevers digitale kompetencer er i top, og de er meget åbne over for at arbejde med it i undervisningen. Det gælder også deres lærere, som har høj tiltro til egne kompetencer og ofte inddrager digitale læremidler.\n\nDet er nogle af de glade budskaber i International Computer and Information Literacy Study 2013, hvis hovedresultater fremlægges i denne bog. 1800 danske 8. klasseelever og deres lærere deltog i undersøgelsen af deres computer- og informationskompetence sammen med elever og lærere fra 20 andre lande.\n\nTræerne vokser dog ikke ind i den danske sommerhimmel. Det viser sig, at langtfra alle danske skoleelever er digitale indfødte. Der er store forskelle mellem forskellige elevgruppers brug af it, og hverken elever eller lærere er særlig avancerede i deres digitale kommunikation, produktion og informationssøgning. Undersøgelsen peger samtidig på, at der fortsat er behov for udvikling af lærernes samarbejde om brug af it i undervisningen."
+  },
+  {
+    "objectID": "publications/books/bundsgaard-pettersson-puck-2014/index.html#about-the-book",
+    "href": "publications/books/bundsgaard-pettersson-puck-2014/index.html#about-the-book",
+    "title": "Digitale kompetencer: It i danske skoler i et internationalt perspektiv",
+    "section": "",
+    "text": "Danske elevers digitale kompetencer er i top, og de er meget åbne over for at arbejde med it i undervisningen. Det gælder også deres lærere, som har høj tiltro til egne kompetencer og ofte inddrager digitale læremidler.\n\nDet er nogle af de glade budskaber i International Computer and Information Literacy Study 2013, hvis hovedresultater fremlægges i denne bog. 1800 danske 8. klasseelever og deres lærere deltog i undersøgelsen af deres computer- og informationskompetence sammen med elever og lærere fra 20 andre lande.\n\nTræerne vokser dog ikke ind i den danske sommerhimmel. Det viser sig, at langtfra alle danske skoleelever er digitale indfødte. Der er store forskelle mellem forskellige elevgruppers brug af it, og hverken elever eller lærere er særlig avancerede i deres digitale kommunikation, produktion og informationssøgning. Undersøgelsen peger samtidig på, at der fortsat er behov for udvikling af lærernes samarbejde om brug af it i undervisningen."
+  },
+  {
+    "objectID": "publications/books/bundsgaard-pettersson-puck-2014/index.html#citation",
+    "href": "publications/books/bundsgaard-pettersson-puck-2014/index.html#citation",
+    "title": "Digitale kompetencer: It i danske skoler i et internationalt perspektiv",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero  \n\n@book{bundsgaardEtAl2019icils,\n  author    = {Jeppe Bundsgaard and Morten Pettersson and Morten Rasmus Puck},\n  title     = {Digitale kompetencer: It i danske skoler i et internationalt perspektiv},\n  publisher = {Aarhus Universitetsforlag},\n  year      = {2014},\n  isbn      = {978-87-7124-831-9},\n  month     = {11},\n  day       = {20},\n  pages     = {220}\n}"
+  },
+  {
+    "objectID": "publications/books/christensen-bundsgaard-kjeldsen-pettersson-2022/index.html",
+    "href": "publications/books/christensen-bundsgaard-kjeldsen-pettersson-2022/index.html",
+    "title": "Skolen under coronapandemien: Danske resultater fra REDS-undersøgelsen 2020-21",
+    "section": "",
+    "text": "Published book"
+  },
+  {
+    "objectID": "publications/books/christensen-bundsgaard-kjeldsen-pettersson-2022/index.html#important-links",
+    "href": "publications/books/christensen-bundsgaard-kjeldsen-pettersson-2022/index.html#important-links",
+    "title": "Skolen under coronapandemien: Danske resultater fra REDS-undersøgelsen 2020-21",
+    "section": "",
+    "text": "Published book"
+  },
+  {
+    "objectID": "publications/books/christensen-bundsgaard-kjeldsen-pettersson-2022/index.html#about-the-book",
+    "href": "publications/books/christensen-bundsgaard-kjeldsen-pettersson-2022/index.html#about-the-book",
+    "title": "Skolen under coronapandemien: Danske resultater fra REDS-undersøgelsen 2020-21",
+    "section": "About the book",
+    "text": "About the book\nDen danske grundskole havde et godt udgangspunkt for at overgå til fjernundervisning, da coronapandemien brød ud, og skoler i hele verden lukkede ned. Det er en af konklusionerne i Responses to Educational Disruption Survey (REDS), der i et internationalt perspektiv har undersøgt, hvordan elever, lærere og skoleledere i Danmark har håndteret og oplevet pandemien.\n\nTrods it-kompetente lærere og righoldige digitale resurser oplevede flertallet af både elever og lærere, at kvaliteten af undervisningen var lavere, og at eleverne ikke lærte lige så meget som normalt. Danske elever var også mere udfordrede i forhold til motivation og faglig udvikling under skolelukningerne end elever i andre lande. Desuden har danske skoler tilsyneladende i lavest grad iværksat indsatser for at støtte elevernes trivsel under og efter pandemien.\n\nSkolen under coronapandemien præsenterer en lang række resultater, der giver os viden om elevers og læreres oplevelse af fjernundervisningen, om tilgængelighed af it-resurser og betydningen af sociale forskelle. Samtidig peger undersøgelsen på erfaringer fra pandemien, som vi måske kan gøre brug af i fremtidens skole."
+  },
+  {
+    "objectID": "publications/books/christensen-bundsgaard-kjeldsen-pettersson-2022/index.html#citation",
+    "href": "publications/books/christensen-bundsgaard-kjeldsen-pettersson-2022/index.html#citation",
+    "title": "Skolen under coronapandemien: Danske resultater fra REDS-undersøgelsen 2020-21",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero  \n\n@book{christensenEtAl2021icilscovid,\n  author    = {Jacob Christensen and Jeppe Bundsgaard and Christian Kjeldsen and Morten Pettersson},\n  title     = {Skolen under coronapandemien: Danske resultater fra REDS-undersøgelsen 2020-21},\n  publisher = {Aarhus Universitetsforlag},\n  year      = {2022},\n  isbn      = {978-87-7219-903-0},\n  month     = {05},\n  day       = {16},\n  pages     = {274}\n}"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Nielsen, T., Jensen, L. S., Toft, L., Pettersson, M.  (2026). Differences Between First- and Second-Year Student Teachers’ Practice Self-Efficacy: A Cross-Sectional Study. Psychology International, 8(2), 24, doi: 10.3390/psycholint8020024\n  \n  \n      \n    Details\n    \n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n       \n      Appendix\n    \n    \n    \n    \n    \n    \n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Practice self-efficacy\n            \n            \n            \n                Student teachers\n            \n            \n            \n                Field practice\n            \n            \n            \n                Differences\n            \n            \n            \n                Rasch analysis\n            \n            \n            \n                Validation\n            \n            \n            \n                Practice Self-Efficacy Questionnaire (PSEQ)\n            \n            \n        \n    \n\n    \n  \n\n  \n  \n  Nielsen, T., Pettersson, M. , & Toft, L. (2025). Student Teachers’ Practice Self-Efficacy Prior to Their First Field Practice in Schools: Interrelatedness of Subconstructs Within Three Domains of Practice. Psychology International, 7(3), 59, doi: 10.3390/psycholint7030059\n  \n  \n      \n    Details\n    \n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n       \n      Appendix\n    \n    \n    \n    \n    \n    \n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Practice self-efficacy\n            \n            \n            \n                Teacher education\n            \n            \n            \n                Field practice\n            \n            \n            \n                Chain graph model\n            \n            \n        \n    \n\n    \n  \n\n  \n  \n  \nElklit, A., Pettersson, M. , Petersen, A. S., & Nielsen, T. (2024). Is there consensus on child violence exposure measures? A study of six recommended instruments. European Journal of Psychotraumatology, 15(1), 1-10, doi: 10.1080/20008066.2024.2392414\n  \n  \n      \n    Details\n    \n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n       \n      Appendix\n    \n    \n    \n    \n    \n    \n    \n       \n      Data\n    \n    \n    \n    \n    \n       \n      Code\n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Violence against children\n            \n            \n            \n                Instruments of exposure\n            \n            \n            \n                Scale items\n            \n            \n            \n                Self-report\n            \n            \n            \n                Jaccard Index\n            \n            \n            \n                Fried's agreement circle\n            \n            \n        \n    \n\n    \n  \n\n  \n  \n  Nielsen T., Pettersson, M. , Toft L., Lindemann D. M., & Nielsen, E. H. (2024). Development and Initial Validation of the Practice Self-Efficacy Questionnaire (PSEQ) for Student Teachers, Educational Methods & Psychometrics, 2, 1-53, doi: 10.61186/emp.2024.5\n  \n  \n      \n    Details\n    \n    \n    \n    \n       \n      Preprint\n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n       \n      Appendix\n    \n    \n    \n    \n    \n    \n    \n       \n      Data\n    \n    \n    \n    \n    \n       \n      Code\n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Practice self-efficacy\n            \n            \n            \n                Teacher education\n            \n            \n            \n                Field practice\n            \n            \n            \n                Rasch model\n            \n            \n            \n                Construct validity\n            \n            \n        \n    \n\n    \n  \n\n  \n  \n  Nielsen, T., Lindemann, D. M., Toft, L., Pettersson, M. , Jensen, L. S., Nielsen, E. H., & Larsen, G. G. (2024). Teacher and teaching-related practices student teachers may have difficulty believing they can enact/engage in while in field practice: perspectives from student teachers and teachers in field-practice schools. Nordic Studies in Education, 44(2), 103-121, doi: 10.23865/nse.v44.6190\n  \n  \n      \n    Details\n    \n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n       \n      Appendix\n    \n    \n    \n    \n    \n    \n    \n       \n      Data\n    \n    \n    \n    \n    \n       \n      Code\n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Practice self-efficacy\n            \n            \n            \n                Teacher education\n            \n            \n            \n                Field practice\n            \n            \n            \n                Student teachers\n            \n            \n        \n    \n\n    \n  \n\n  \n  \n  Nielsen, T., Pontoppidan, M.,  Pettersson, M., Donstrup, C. H., Kreiner, S., & Rayce, S. B. (2023). Measuring child and adolescent well-being in Denmark: Validation and norming of the Danish KIDSCREEN-10 child/adolescent version in a national representative sample of school pupils in grades five through eight. PLoS One, 18(9), e0291420, doi: 10.1371/journal.pone.0291420\n  \n  \n      \n    Details\n    \n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n       \n      Appendix\n    \n    \n    \n    \n    \n    \n    \n       \n      Data\n    \n    \n    \n    \n    \n        \n    \n  \n    \n            \n            \n        \n    \n\n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/index.html#journal-articles",
+    "href": "publications/index.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Nielsen, T., Jensen, L. S., Toft, L., Pettersson, M.  (2026). Differences Between First- and Second-Year Student Teachers’ Practice Self-Efficacy: A Cross-Sectional Study. Psychology International, 8(2), 24, doi: 10.3390/psycholint8020024\n  \n  \n      \n    Details\n    \n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n       \n      Appendix\n    \n    \n    \n    \n    \n    \n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Practice self-efficacy\n            \n            \n            \n                Student teachers\n            \n            \n            \n                Field practice\n            \n            \n            \n                Differences\n            \n            \n            \n                Rasch analysis\n            \n            \n            \n                Validation\n            \n            \n            \n                Practice Self-Efficacy Questionnaire (PSEQ)\n            \n            \n        \n    \n\n    \n  \n\n  \n  \n  Nielsen, T., Pettersson, M. , & Toft, L. (2025). Student Teachers’ Practice Self-Efficacy Prior to Their First Field Practice in Schools: Interrelatedness of Subconstructs Within Three Domains of Practice. Psychology International, 7(3), 59, doi: 10.3390/psycholint7030059\n  \n  \n      \n    Details\n    \n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n       \n      Appendix\n    \n    \n    \n    \n    \n    \n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Practice self-efficacy\n            \n            \n            \n                Teacher education\n            \n            \n            \n                Field practice\n            \n            \n            \n                Chain graph model\n            \n            \n        \n    \n\n    \n  \n\n  \n  \n  \nElklit, A., Pettersson, M. , Petersen, A. S., & Nielsen, T. (2024). Is there consensus on child violence exposure measures? A study of six recommended instruments. European Journal of Psychotraumatology, 15(1), 1-10, doi: 10.1080/20008066.2024.2392414\n  \n  \n      \n    Details\n    \n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n       \n      Appendix\n    \n    \n    \n    \n    \n    \n    \n       \n      Data\n    \n    \n    \n    \n    \n       \n      Code\n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Violence against children\n            \n            \n            \n                Instruments of exposure\n            \n            \n            \n                Scale items\n            \n            \n            \n                Self-report\n            \n            \n            \n                Jaccard Index\n            \n            \n            \n                Fried's agreement circle\n            \n            \n        \n    \n\n    \n  \n\n  \n  \n  Nielsen T., Pettersson, M. , Toft L., Lindemann D. M., & Nielsen, E. H. (2024). Development and Initial Validation of the Practice Self-Efficacy Questionnaire (PSEQ) for Student Teachers, Educational Methods & Psychometrics, 2, 1-53, doi: 10.61186/emp.2024.5\n  \n  \n      \n    Details\n    \n    \n    \n    \n       \n      Preprint\n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n       \n      Appendix\n    \n    \n    \n    \n    \n    \n    \n       \n      Data\n    \n    \n    \n    \n    \n       \n      Code\n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Practice self-efficacy\n            \n            \n            \n                Teacher education\n            \n            \n            \n                Field practice\n            \n            \n            \n                Rasch model\n            \n            \n            \n                Construct validity\n            \n            \n        \n    \n\n    \n  \n\n  \n  \n  Nielsen, T., Lindemann, D. M., Toft, L., Pettersson, M. , Jensen, L. S., Nielsen, E. H., & Larsen, G. G. (2024). Teacher and teaching-related practices student teachers may have difficulty believing they can enact/engage in while in field practice: perspectives from student teachers and teachers in field-practice schools. Nordic Studies in Education, 44(2), 103-121, doi: 10.23865/nse.v44.6190\n  \n  \n      \n    Details\n    \n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n       \n      Appendix\n    \n    \n    \n    \n    \n    \n    \n       \n      Data\n    \n    \n    \n    \n    \n       \n      Code\n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Practice self-efficacy\n            \n            \n            \n                Teacher education\n            \n            \n            \n                Field practice\n            \n            \n            \n                Student teachers\n            \n            \n        \n    \n\n    \n  \n\n  \n  \n  Nielsen, T., Pontoppidan, M.,  Pettersson, M., Donstrup, C. H., Kreiner, S., & Rayce, S. B. (2023). Measuring child and adolescent well-being in Denmark: Validation and norming of the Danish KIDSCREEN-10 child/adolescent version in a national representative sample of school pupils in grades five through eight. PLoS One, 18(9), e0291420, doi: 10.1371/journal.pone.0291420\n  \n  \n      \n    Details\n    \n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n       \n      Appendix\n    \n    \n    \n    \n    \n    \n    \n       \n      Data\n    \n    \n    \n    \n    \n        \n    \n  \n    \n            \n            \n        \n    \n\n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/index.html#book-chapters",
+    "href": "publications/index.html#book-chapters",
+    "title": "Publications",
+    "section": "Book chapters",
+    "text": "Book chapters\n\n\n\n\n  \n  \n  Christensen, J., Bundsgaard, J., & Pettersson, M.  (2021). Centrale resultater fra lærerspørgeskemaet. In J. Christensen, J. Bundsgaard, C. Kjeldsen, & M. Pettersson (Eds.), It i skolen under coronapandemien (pp. 45–60). Aarhus Universitetsforlag. isbn: 978-87-7219-699-2\n  \n  \n      \n    Details\n    \n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Teachers\n            \n            \n            \n                Teaching\n            \n            \n            \n                Covid\n            \n            \n            \n                ICILS\n            \n            \n        \n    \n\n    \n  \n\n  \n  \n  Gissel, S. T., Pettersson, M. , & Bundsgaard, J. (2021). Udvikling i lærernes brug af digitale læremidler. In J. Christensen, J. Bundsgaard, C. Kjeldsen, & M. Pettersson (Eds.), It i skolen under coronapandemien (pp. 61–84). Aarhus Universitetsforlag. isbn: 978-87-7219-699-2\n  \n  \n      \n    Details\n    \n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Teaching\n            \n            \n            \n                Learning tools\n            \n            \n            \n                Teachers\n            \n            \n            \n                Panel data\n            \n            \n            \n                ICILS\n            \n            \n        \n    \n\n    \n  \n\n  \n  \n  Pettersson, M.  (2021). Udviklingen i lærernes holdning til it. In J. Christensen, J. Bundsgaard, C. Kjeldsen, & M. Pettersson (Eds.), It i skolen under coronapandemien (pp. 85–100). Aarhus Universitetsforlag. isbn: 978-87-7219-699-2\n  \n  \n      \n    Details\n    \n    \n    \n    \n       \n      Preprint\n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Teachers\n            \n            \n            \n                Attitudes\n            \n            \n            \n                Panel data\n            \n            \n            \n                ICILS\n            \n            \n        \n    \n\n    \n  \n\n  \n  \n  Pettersson, M. , Christensen, J., & Bundsgaard, J. (2021). Om ICILS-undersøgelsen. In J. Christensen, J. Bundsgaard, C. Kjeldsen, & M. Pettersson (Eds.), It i skolen under coronapandemien (pp. 15–30). Aarhus Universitetsforlag. isbn: 978-87-7219-699-2\n  \n  \n      \n    Details\n    \n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Panel data\n            \n            \n            \n                ICILS\n            \n            \n            \n                Research design\n            \n            \n        \n    \n\n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/index.html#books",
+    "href": "publications/index.html#books",
+    "title": "Publications",
+    "section": "Books",
+    "text": "Books\n\n\n\n\n  \n  \n  \nHansen, S. R., Hansen, T. I,, & Pettersson, M.  (2022). Børn og unges læsning 2021. Aarhus Universitetsforlag. isbn: 978-87-7219-920-7\n  \n  \n      \n    Details\n    \n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n       \n      Appendix\n    \n    \n    \n    \n    \n       \n      Technical report\n    \n    \n    \n    \n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Reading\n            \n            \n            \n                Reading motivation\n            \n            \n            \n                Children\n            \n            \n            \n                Screen time\n            \n            \n        \n    \n\n    \n  \n\n  \n  \n  \nChristensen, J., Bundsgaard, J., Kjeldsen, C., & Pettersson, M.  (2022). Skolen under coronapandemien: Danske resultater fra REDS-undersøgelsen 2020-21. Aarhus Universitetsforlag. isbn: 978-87-7219-903-0\n  \n  \n      \n    Details\n    \n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Teachers\n            \n            \n            \n                Teaching\n            \n            \n            \n                Covid\n            \n            \n            \n                REDS\n            \n            \n        \n    \n\n    \n  \n\n  \n  \n  \nChristensen, J., Bundsgaard, J., Kjeldsen, C., & Pettersson, M.  (2021). It i skolen under coronapandemien. Aarhus Universitetsforlag. isbn: 978-87-7219-699-2\n  \n  \n      \n    Details\n    \n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Teachers\n            \n            \n            \n                Teaching\n            \n            \n            \n                Covid\n            \n            \n            \n                ICILS\n            \n            \n        \n    \n\n    \n  \n\n  \n  \n  \nBundsgaard, J., Bindslev, S., Caeli, E. N., Pettersson, M. , & Rusmann, A. (2019). Danske elevers teknologiforståelse: Resultater fra ICILS-undersøgelsen 2018. Aarhus Universitetsforlag. isbn: 978-87-7219-060-0\n  \n  \n      \n    Details\n    \n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Computer and information literacy\n            \n            \n            \n                Computational thinking\n            \n            \n            \n                Students\n            \n            \n            \n                Teachers\n            \n            \n            \n                Teaching\n            \n            \n            \n                It\n            \n            \n            \n                ICILS\n            \n            \n        \n    \n\n    \n  \n\n  \n  \n  \nBundsgaard, J., Pettersson, M. , & Puck, M. R. (2014). Digitale kompetencer: It i danske skoler i et internationalt perspektiv. Aarhus Universitetsforlag. isbn: 978-87-7124-831-9\n  \n  \n      \n    Details\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Computer and information literacy\n            \n            \n            \n                Students\n            \n            \n            \n                Teachers\n            \n            \n            \n                Teaching\n            \n            \n            \n                It\n            \n            \n            \n                ICILS\n            \n            \n        \n    \n\n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/index.html#phd-dissertation",
+    "href": "publications/index.html#phd-dissertation",
+    "title": "Publications",
+    "section": "PhD Dissertation",
+    "text": "PhD Dissertation\n\n\n\n\n  \n  \n  \nPettersson, M.  (2018). Identity in Political Opinion Formation: How Information Shapes the Influence of Citizens' Identities on Political Opinions. Politica. isbn: 978-87-7335-240-3\n  \n  \n      \n    Details\n    \n    \n    \n    \n    \n    \n       \n      Published\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n        \n    \n  \n    \n            \n            \n            \n                Opinions\n            \n            \n            \n                Identity\n            \n            \n            \n                Politics\n            \n            \n        \n    \n\n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Inferential statistics and critical use of quantitative research\n      \n       Nov 23, 2025\n      \n    \n  Lecture for the course 'Methods' in the Master’s Programme in Educational Psychology at UCL University College\n  About how to interpret quantitative findings and use them in practice  \n\n  \n    \n            \n            \n            \n                Quantitative Methods\n            \n            \n            \n                Inferential statistics\n            \n            \n            \n                Large-scale assessments\n            \n            \n        \n    \n\n  \n      \n    Details \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n\n   \n      Quantitative methods, research designs, and descriptive statistics\n      \n       Nov 12, 2025\n      \n    \n  Lecture for the course 'Methods' in the Master’s Programme in Educational Psychology at UCL University College\n  An introduction to quantitative methods and statistics  \n\n  \n    \n            \n            \n            \n                Quantitative Methods\n            \n            \n            \n                Cross-sectional data\n            \n            \n            \n                Panel data\n            \n            \n            \n                Experiments\n            \n            \n            \n                Descriptive statistics\n            \n            \n            \n                Sampling\n            \n            \n        \n    \n\n  \n      \n    Details \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n\n   \n      How to test surveys\n      \n       Oct 15, 2021\n      \n    \n  A short seminar at UCL University College \n  About various approaches to quality check survey qustions  \n\n  \n    \n            \n            \n            \n                Survey\n            \n            \n            \n                Quality checks\n            \n            \n            \n                Cognitive interviews\n            \n            \n            \n                Experiments\n            \n            \n            \n                Pilots\n            \n            \n        \n    \n\n  \n      \n    Details \n    \n    \n    \n    \n       \n      Slides\n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n\n   \n      How to select respondents\n      \n       Sep 24, 2021\n      \n    \n  A short seminar at UCL University College \n  About various approaches to quality check survey qustions  \n\n  \n    \n            \n            \n            \n                Sampling\n            \n            \n            \n                Probability sampling\n            \n            \n            \n                Convenience sampling\n            \n            \n        \n    \n\n  \n      \n    Details \n    \n    \n    \n    \n       \n      Slides\n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n\n   \n      How to write good survey questions\n      \n       Aug 27, 2021\n      \n    \n  1-day course at UCL University College \n  About factual and attitudinal survey question.  \n\n  \n    \n            \n            \n            \n                Survey\n            \n            \n            \n                Attitudes\n            \n            \n            \n                Behavior\n            \n            \n        \n    \n\n  \n      \n    Details \n    \n    \n    \n    \n       \n      Slides\n    \n    \n    \n    \n    \n    \n    \n       \n      Website\n    \n    \n    \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html#teaching",
+    "href": "talks/index.html#teaching",
+    "title": "Talks",
+    "section": "",
+    "text": "Inferential statistics and critical use of quantitative research\n      \n       Nov 23, 2025\n      \n    \n  Lecture for the course 'Methods' in the Master’s Programme in Educational Psychology at UCL University College\n  About how to interpret quantitative findings and use them in practice  \n\n  \n    \n            \n            \n            \n                Quantitative Methods\n            \n            \n            \n                Inferential statistics\n            \n            \n            \n                Large-scale assessments\n            \n            \n        \n    \n\n  \n      \n    Details \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n\n   \n      Quantitative methods, research designs, and descriptive statistics\n      \n       Nov 12, 2025\n      \n    \n  Lecture for the course 'Methods' in the Master’s Programme in Educational Psychology at UCL University College\n  An introduction to quantitative methods and statistics  \n\n  \n    \n            \n            \n            \n                Quantitative Methods\n            \n            \n            \n                Cross-sectional data\n            \n            \n            \n                Panel data\n            \n            \n            \n                Experiments\n            \n            \n            \n                Descriptive statistics\n            \n            \n            \n                Sampling\n            \n            \n        \n    \n\n  \n      \n    Details \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n\n   \n      How to test surveys\n      \n       Oct 15, 2021\n      \n    \n  A short seminar at UCL University College \n  About various approaches to quality check survey qustions  \n\n  \n    \n            \n            \n            \n                Survey\n            \n            \n            \n                Quality checks\n            \n            \n            \n                Cognitive interviews\n            \n            \n            \n                Experiments\n            \n            \n            \n                Pilots\n            \n            \n        \n    \n\n  \n      \n    Details \n    \n    \n    \n    \n       \n      Slides\n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n\n   \n      How to select respondents\n      \n       Sep 24, 2021\n      \n    \n  A short seminar at UCL University College \n  About various approaches to quality check survey qustions  \n\n  \n    \n            \n            \n            \n                Sampling\n            \n            \n            \n                Probability sampling\n            \n            \n            \n                Convenience sampling\n            \n            \n        \n    \n\n  \n      \n    Details \n    \n    \n    \n    \n       \n      Slides\n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n\n   \n      How to write good survey questions\n      \n       Aug 27, 2021\n      \n    \n  1-day course at UCL University College \n  About factual and attitudinal survey question.  \n\n  \n    \n            \n            \n            \n                Survey\n            \n            \n            \n                Attitudes\n            \n            \n            \n                Behavior\n            \n            \n        \n    \n\n  \n      \n    Details \n    \n    \n    \n    \n       \n      Slides\n    \n    \n    \n    \n    \n    \n    \n       \n      Website\n    \n    \n    \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html#presentations",
+    "href": "talks/index.html#presentations",
+    "title": "Talks",
+    "section": "Presentations",
+    "text": "Presentations"
+  },
+  {
+    "objectID": "talks/presentations/2023-09-05-oslo/index.html",
+    "href": "talks/presentations/2023-09-05-oslo/index.html",
+    "title": "Within and Beyond Borders? Intrinsic Reading Motivation in PIRLS",
+    "section": "",
+    "text": "POSTER\nPoster presentation in Oslo on September 5, 2023 from 4.30 to 7 pm.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "talks/teaching/2021-09-24-ucl/index.html",
+    "href": "talks/teaching/2021-09-24-ucl/index.html",
+    "title": "How to select respondents",
+    "section": "",
+    "text": "SLIDES\nA short seminar held at UCL University College on September 24, from 1 pm to 3 pm.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "talks/teaching/2021-10-15-ucl/index.html",
+    "href": "talks/teaching/2021-10-15-ucl/index.html",
+    "title": "How to test surveys",
+    "section": "",
+    "text": "SLIDES\nA short seminar held at UCL University College on November 15, from 1 pm to 3 pm.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "talks/teaching/2025-11-12-ucl/index.html",
+    "href": "talks/teaching/2025-11-12-ucl/index.html",
+    "title": "Quantitative methods, research designs, and descriptive statistics",
+    "section": "",
+    "text": "A lecture held at UCL University College on November 12, from 12.45 pm to 4.30 pm.\n\n\n\n Back to top"
+  }
+]

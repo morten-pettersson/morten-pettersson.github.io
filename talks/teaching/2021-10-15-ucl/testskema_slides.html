@@ -1,0 +1,1427 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.10.18">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Morten Pettersson">
+<meta name="dcterms.date" content="2021-10-15">
+
+<title>Test af spørgeskema</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<link href="../../../image/mp_billede.jpg" rel="icon" type="image/jpeg">
+<script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-1f7f91bdadf96408450f748cf23c72d2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<meta property="og:title" content="Test af spørgeskema">
+<meta property="og:description" content="Præsentation">
+<meta property="og:image" content="C:/Users/MOPE1153/Desktop/Metode/Undervisning/At stille gode spørgsmål/Slides - talenoter/Billeder/kursusplan.PNG">
+</head>
+
+<body class="nav-fixed fullcontent quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../../index.html">
+    <span class="navbar-title">Morten Pettersson</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../publications/index.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../talks/index.html"> 
+<span class="menu-text">Talks</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../cv/index.html"> 
+<span class="menu-text">CV</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+    <a href="https://github.com/morten-pettersson" title="" class="quarto-navigation-tool px-1" aria-label="" target="_blank"><i class="bi bi-github"></i></a>
+    <a href="https://bsky.app/profile/morten-pettersson.bsky.social" title="" class="quarto-navigation-tool px-1" aria-label="" target="_blank"><i class="bi bi-bluesky"></i></a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Test af spørgeskema</h1>
+<p class="subtitle lead">Præsentation</p>
+</div>
+
+
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Author</div>
+  <div class="quarto-title-meta-heading">Affiliation</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author">Morten Pettersson </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            UCL
+          </p>
+      </div>
+  </div>
+
+<div class="quarto-title-meta">
+
+      
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">October 15, 2021</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="om-kursus--og-seminarrække" class="level2">
+<h2 class="anchored" data-anchor-id="om-kursus--og-seminarrække">Om kursus- og seminarrække</h2>
+<ul>
+<li>Formål: At fremme deltagere selv kan bruge metoder</li>
+<li><em>Spørgeskema</em>: At stille enkeltstående spørgsmål, bruge dem til at beskrive adfærd eller holdninger</li>
+<li><em>Måleskalaer</em>: Måling af komplicerede egenskaber (fx dygtighed, psykologiske egenskaber), hvor vi måler teoretiske begreber indirekte via observerbare indikatorer</li>
+</ul>
+<div id="id" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="C:/Users/MOPE1153/Desktop/Metode/Undervisning/At%20stille%20gode%20spørgsmål/Slides%20-%20talenoter/Billeder/kursusplan.PNG" class="class figure-img" style="width:85.0%;height:85.0%"></p>
+<figcaption>Kursusplan</figcaption>
+</figure>
+</div>
+</section>
+<section id="introduktion" class="level1">
+<h1>Introduktion</h1>
+<section id="en-simpel-model-svarproces" class="level2">
+<h2 class="anchored" data-anchor-id="en-simpel-model-svarproces">En simpel model (svarproces)</h2>
+<div id="id" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="C:/Users/MOPE1153/Desktop/Metode/Undervisning/At%20stille%20gode%20spørgsmål/Slides%20-%20talenoter/Billeder/Tourangeau%202000.png" class="class figure-img" style="width:100.0%;height:100.0%"></p>
+<figcaption>Simpel responsmodel, Tourangeau et al.&nbsp;(2000)</figcaption>
+</figure>
+</div>
+</section>
+<section id="målefejl" class="level2">
+<h2 class="anchored" data-anchor-id="målefejl">Målefejl</h2>
+<ul>
+<li><p>Svar på spørgsmål = sande værdi</p></li>
+<li><p>Målefejl = når svar afviger fra den sande værdi</p>
+<ul>
+<li>Hvor ofte læser du bøger i fritiden?
+<ul>
+<li>Sande svar: Ugentligt</li>
+<li>Svar: Hver anden uge</li>
+</ul></li>
+</ul></li>
+<li><p>Målefejl</p>
+<ul>
+<li><strong>Response bias</strong>: folks svar indeholder systematisk over- eller underrapportering i en given retning.</li>
+<li><strong>Response variance</strong>: er de tilfældige målefejl. Forstørrer usikkerheden på vores resultater (ved ikke hvor godt de passer på hver enkelt)</li>
+</ul></li>
+</ul>
+</section>
+<section id="eksempel-hvor-mange-gange-har-du-røget-hash-i-de-seneste-6-måneder" class="level2">
+<h2 class="anchored" data-anchor-id="eksempel-hvor-mange-gange-har-du-røget-hash-i-de-seneste-6-måneder">Eksempel: Hvor mange gange har du røget hash i de seneste 6 måneder?</h2>
+<ul>
+<li><p>R’s sande svar = 6</p>
+<ul>
+<li>men svarer 2 gange (flov) = målefejl</li>
+</ul></li>
+<li><p>At forstå målefejl: Hvad sker der ved gentagne målinger (M<sub>1</sub>, M<sub>2</sub>, M<sub>3</sub>)?</p></li>
+<li><p><strong>Response bias</strong></p>
+<ul>
+<li>Sande svar = 6
+<ul>
+<li>M<sub>1</sub> = 2</li>
+<li>M<sub>2</sub> = 3</li>
+<li>M<sub>3</sub> = 2<br>
+</li>
+</ul></li>
+<li>Når svarafvigelser fra sande svar er systematisk, dvs. konsistent skævt i en retning.</li>
+<li>Bias = forskel i gns. på alle målinger og den sande værdi</li>
+</ul></li>
+</ul>
+</section>
+<section id="eksempel-hvor-mange-gange-har-du-røget-hash-i-de-seneste-6-måneder-1" class="level2">
+<h2 class="anchored" data-anchor-id="eksempel-hvor-mange-gange-har-du-røget-hash-i-de-seneste-6-måneder-1">Eksempel: Hvor mange gange har du røget hash i de seneste 6 måneder?</h2>
+<ul>
+<li><p>At forstå målefejl: Hvad sker der ved gentagne målinger (M<sub>1</sub>, M<sub>2</sub>, M<sub>3</sub>)?</p></li>
+<li><p><strong>Response variance</strong></p>
+<ul>
+<li>Sande svar = 6
+<ul>
+<li>M<sub>1</sub> = 7 (medregner hændelse for 7 mdr. siden)</li>
+<li>M<sub>2</sub> = 5 (glemmer hændelse for to uger siden)</li>
+<li>M<sub>3</sub> = 6<br>
+</li>
+</ul></li>
+<li>Ustabilitet i svar: Nogle gange for højt, andre gange for lavt</li>
+<li>Ikke systematisk mønster: Gennemsnit = sande værdi</li>
+</ul></li>
+</ul>
+</section>
+<section id="kilder-til-målefejl" class="level2">
+<h2 class="anchored" data-anchor-id="kilder-til-målefejl">Kilder til målefejl</h2>
+<p>Think-pair-share: Hvilke kilder til målefejl kender I?</p>
+<ol type="1">
+<li>Brug lidt tid selv og notér (3-5 minutter)</li>
+<li>Tal med sidemanden 5 minutter om hvad der kan give målefejl - og hvorfor</li>
+<li>Opsummering ved tavlen</li>
+</ol>
+</section>
+</section>
+<section id="kvalitetstest-af-spørgeskema" class="level1">
+<h1>Kvalitetstest af spørgeskema</h1>
+<ul>
+<li><p>Metoder til at reducere målefejl (mindske bias/variance)</p></li>
+<li><p>Kvalitative metoder</p>
+<ul>
+<li>Ekspertvurderinger</li>
+<li>Fokusgrupper</li>
+<li>Kognitive interviews</li>
+</ul></li>
+<li><p>Kvantitative metoder</p>
+<ul>
+<li>Eksperimenter</li>
+<li>Pilot-test</li>
+</ul></li>
+<li><p>Sparres ofte væk</p></li>
+</ul>
+</section>
+<section id="ekspertvurderinger" class="level1">
+<h1>Ekspertvurderinger</h1>
+<section id="ekspertvurderinger-1" class="level2">
+<h2 class="anchored" data-anchor-id="ekspertvurderinger-1">Ekspertvurderinger (1)</h2>
+<ul>
+<li>Hvem er eksperter?
+<ul>
+<li>Fageksperter: Særligt kendskab til emne (lingo)</li>
+<li>Spørgeskemaeksperter: viden om
+<ul>
+<li>spørgeskemaer</li>
+<li>psykologi</li>
+<li>semantik</li>
+</ul></li>
+</ul></li>
+<li>Påpege problemer og forslag til forbedringer
+<ul>
+<li>Er spørgsmålene passende til at måle det ønskede?</li>
+<li>Mulige forståelsesproblemer (+ andre svarprocesser)?
+<ul>
+<li>ordvalg, samlede spørgsmål, svarkategorier, rækkefølge</li>
+</ul></li>
+</ul></li>
+<li>Kan være interview, typisk skriftlig feedback</li>
+</ul>
+</section>
+<section id="ekspertvurderinger-2" class="level2">
+<h2 class="anchored" data-anchor-id="ekspertvurderinger-2">Ekspertvurderinger (2)</h2>
+<ul>
+<li>Tjekliste (Olsen 2006)</li>
+<li>Hvert spørgsmål: Kommentar + forbedringsforslag</li>
+</ul>
+<div id="id" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="C:/Users/MOPE1153/Desktop/Metode/Undervisning/Test%20af%20spørgeskema/Billeder/tjekliste.png" class="class figure-img" style="width:75.0%;height:75.0%"></p>
+<figcaption>Kursusplan</figcaption>
+</figure>
+</div>
+</section>
+<section id="ekspertvurderinger-3" class="level2">
+<h2 class="anchored" data-anchor-id="ekspertvurderinger-3">Ekspertvurderinger (3)</h2>
+<ul>
+<li>Fordele:
+<ul>
+<li>Omkostningseffektiv</li>
+<li>God til at finde forståelsesproblemer + dataanalyse</li>
+<li>Sammenhæng med kvalitet (Olson 2011)
+<ul>
+<li>problematiske spørgsmål større non-response og mere upræcis hukommelse</li>
+</ul></li>
+</ul></li>
+<li>Ulemper:
+<ul>
+<li>Eksperters vurderinger ikke nødvendigvis enslydende (Presser &amp; Blair 1994)</li>
+<li>Subjektive vurderinger (art, not science?)</li>
+<li>Ingen input fra respondenter</li>
+</ul></li>
+<li>Andre overvejelser:
+<ul>
+<li>En faktor: Længde (kan besværliggøre opgave)</li>
+<li>Typisk enkelte spørgsmål man er interesseret i</li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="fokusgrupper" class="level1">
+<h1>Fokusgrupper</h1>
+<section id="fokusgrupper-1" class="level2">
+<h2 class="anchored" data-anchor-id="fokusgrupper-1">Fokusgrupper (1)</h2>
+<ul>
+<li>Små grupper af (5-10) personer der skal</li>
+<li>Tale om emne
+<ul>
+<li>Hvordan de tænker
+<ul>
+<li>Deres forståelse af emnet</li>
+<li>Ord de bruger</li>
+<li>Hukommelse (forståelsesudfordringer + hukommelse)</li>
+<li>Hvordan de formulerer svar</li>
+</ul></li>
+</ul></li>
+<li>Evaluere spørgsmål (mikse med åben diskussion)
+<ul>
+<li>Hvad de tænker om foreløbige spørgsmål
+<ul>
+<li>om ord i spørgsmål, formuleringen</li>
+<li>Undersøge alternative formuleringer</li>
+</ul></li>
+</ul></li>
+<li>Gruppe-kontekst
+<ul>
+<li>Flere perspektiver</li>
+<li>Diskussion</li>
+<li>Kommentarer afføder feedback</li>
+</ul></li>
+</ul>
+</section>
+<section id="fokusgrupper-2-centrale-opgaver" class="level2">
+<h2 class="anchored" data-anchor-id="fokusgrupper-2-centrale-opgaver">Fokusgrupper (2): Centrale opgaver</h2>
+<ul>
+<li><p>Moderators interviewguide</p></li>
+<li><p>Rekruttering</p>
+<ul>
+<li>Homogen eller heterogen</li>
+</ul></li>
+<li><p>Video eller lydoptagelse</p>
+<ul>
+<li>Moderator kan ikke tage noter</li>
+<li>skal give taletid (dæmpe dominerende, aktiverer passive)</li>
+</ul></li>
+</ul>
+</section>
+<section id="fokusgrupper-3-moderatorinterviewguide" class="level2">
+<h2 class="anchored" data-anchor-id="fokusgrupper-3-moderatorinterviewguide">Fokusgrupper (3): Moderator/interviewguide</h2>
+<p>Eksempel: Attendance in classical music performance</p>
+<ol type="1">
+<li>First, we are going to ask people about attendance in the last year at classical music performances. What are some of the kinds of things you have gone to in the past year that might count?</li>
+</ol>
+<ul>
+<li><em>Note</em>: Whenever somebody suggest a borderline event, encourage group to give feedback</li>
+</ul>
+<ol start="2" type="1">
+<li><p>The question is going to ask people report number of times they have attended. Can you answer that question? Would categories 1-5, 6-10 help?</p></li>
+<li><p>A key term is classicial music performances. What does and does not count as classical music, as you understand the term?</p></li>
+</ol>
+</section>
+<section id="fokusgrupper-3-moderatorinterviewguide-1" class="level2">
+<h2 class="anchored" data-anchor-id="fokusgrupper-3-moderatorinterviewguide-1">Fokusgrupper (3): Moderator/interviewguide</h2>
+<ul>
+<li>Dikterer flow</li>
+<li>Semistruktureret interview
+<ul>
+<li>Før: specificér spørgsmåls-emner (forståelse), genkaldelse og svarafgivelse</li>
+<li>Guide med spørgsmål (+ opfølgende)</li>
+</ul></li>
+<li>Typisk flow
+<ul>
+<li>Ground rules (what to expect, fortrolighed, optagelse)</li>
+<li>Introduktion: Formål</li>
+<li>Præsentation</li>
+<li>Åbningsspørgsmål (få gang i tankerne)
+<ul>
+<li>Hvad er I mest optaget af for tiden, når det gælder mad? (emne: skolemad)</li>
+<li>Fortæl lidt om et digitalt læremiddel du kender og har brugt (emne: læreres brug af digitale læremidler)</li>
+</ul></li>
+<li>Mere fokuserede
+<ul>
+<li>Åbne, ikke-ledende, hv-spørspørgsmål</li>
+</ul></li>
+<li>Afslutning (afstem positioner, efterlad godt intryk)</li>
+</ul></li>
+</ul>
+</section>
+<section id="fokusgrupper-4-rekruttering" class="level2">
+<h2 class="anchored" data-anchor-id="fokusgrupper-4-rekruttering">Fokusgrupper (4): Rekruttering</h2>
+<ul>
+<li><p>Vælg informanter fra relevant population</p></li>
+<li><p>Homogen/Heterogen gruppe</p>
+<ul>
+<li>Heterogen: Generelt at foretrække
+<ul>
+<li>Afdække flere perspektiver</li>
+<li>Undergrupper: Afhængig af formål og population (køn, alder, socioøkonomi, etc.)</li>
+</ul></li>
+<li>Homogen: At foretrække ved følsomme emner (fx religion)</li>
+</ul></li>
+<li><p>Grupper kan stratificeres efter et karakteristika</p>
+<ul>
+<li>Fx afdække forskelle afhængigt af køn, ansættelsesforhold</li>
+</ul></li>
+<li><p>Typisk tidskrævende (1,5 - 2 timer): Belønning</p>
+<ul>
+<li>Gavekort</li>
+<li>Anden påskønnelse</li>
+</ul></li>
+</ul>
+</section>
+<section id="fokusgrupper-5" class="level2">
+<h2 class="anchored" data-anchor-id="fokusgrupper-5">Fokusgrupper (5):</h2>
+<ul>
+<li>Fordele
+<ul>
+<li>Give kvalitativ information
+<ul>
+<li>indsigt i hvordan de tænker</li>
+<li>nogen indsigt i kognitiv proces (forståelse, hukommelse, svar)</li>
+</ul></li>
+<li>Forskellige perspektiver</li>
+</ul></li>
+<li>Ulempe
+<ul>
+<li>Gruppedynamikker</li>
+<li>Generaliserbarhed</li>
+<li>Rekruttering/tidskrævende</li>
+<li>Transskribering</li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="kognitive-interview" class="level1">
+<h1>Kognitive interview</h1>
+<section id="kognitive-interview-1" class="level2">
+<h2 class="anchored" data-anchor-id="kognitive-interview-1">Kognitive interview</h2>
+<p>Kognitive interview er</p>
+<p>“… the administration of draft survey questions while collecting additional verbal information about the survey responses, which is used to evaluate the quality of the response or to help determine whether the question is generating the information that its author intends” (Beatty and Willis 2007)</p>
+<p>“Cognitive interviewing techniques are used to study the manner in which targeted audiences understand, mentally process, and respond to the materials we present (Willis 2005, p.&nbsp;3)</p>
+</section>
+<section id="kognitive-interview-2" class="level2">
+<h2 class="anchored" data-anchor-id="kognitive-interview-2">Kognitive interview (2)</h2>
+<ul>
+<li><p>fokus på <strong>kognitive</strong> svarproces (ift. fokusgruppe - får lyd på hvert skridt)</p>
+<ul>
+<li>fra respondenten modtager spørgsmålet,</li>
+<li>overvejer indholdet,</li>
+<li>og beslutter sig for et svar</li>
+</ul></li>
+<li><p>Afdække målefejl knyttet til forståelse, hukommelse, svarvurdering</p></li>
+<li><p>Kvalitativ metode - interview</p>
+<ul>
+<li>Lydoptages eller note-tagning</li>
+</ul></li>
+<li><p>Tre teknikker:</p>
+<ol type="1">
+<li>Think-aloud</li>
+<li>Probing</li>
+<li>Definering</li>
+</ol></li>
+</ul>
+</section>
+<section id="kognitive-interview-think-aloud-1" class="level2">
+<h2 class="anchored" data-anchor-id="kognitive-interview-think-aloud-1">Kognitive interview: Think-aloud (1)</h2>
+<ul>
+<li><p>Informant skal ‘tænke højt’ når de <em>læser</em> og <em>besvarer</em> spørgsmål</p></li>
+<li><p>Indsigt i</p>
+<ul>
+<li>forståelse af ord</li>
+<li>udfordringer, hukommelse, stillingtagen, svarafgivelse</li>
+</ul></li>
+<li><p>Antagelse</p>
+<ul>
+<li>Tankeprocesser tilgængelige for informant</li>
+<li>Informant kan afrapportere præcist</li>
+<li>Aktivitet påvirker ikke tankeproces</li>
+</ul></li>
+</ul>
+</section>
+<section id="kognitive-interview-think-aloud-2" class="level2">
+<h2 class="anchored" data-anchor-id="kognitive-interview-think-aloud-2">Kognitive interview: Think-aloud (2)</h2>
+<p><strong>Question</strong>: How many times have you talked to a doctor in the last 12 months?</p>
+<p><strong>Response</strong>: “I guess that depends on what you mean when you say ‘talked.’ I talked to my neighbor, who is a doctor…I go to my doctor about once a year for a general checkup…I’ve also probably been to some type of specialist [bad knee, coughing]…which I’m pretty sure was in the past year…I’ve also talked to doctors…when I brought my kids in to the pediatrician…assume you don’t want that included…saw a chiropractor…I don’t know if that’s a doctor…” (Willis 2005)</p>
+<ul>
+<li>Hvad lærer vi om:
+<ul>
+<li><em>Hvad</em> informant tæller med i sit svar</li>
+<li>Overvejelser om hvad der kvalificerer</li>
+<li>Usikker på ‘talked’, ‘past year’ og ‘doctor’</li>
+</ul></li>
+</ul>
+</section>
+<section id="kognitive-interview-think-aloud-3" class="level2">
+<h2 class="anchored" data-anchor-id="kognitive-interview-think-aloud-3">Kognitive interview: Think-aloud (3)</h2>
+<ul>
+<li>Træning af R</li>
+<li>Komfortabel med at sætte ord på (usædvanlig adfærd)</li>
+</ul>
+<p>Øvelse:</p>
+<p>“Try to visualize the place where you live, and think about how many windows there are in that place. As you count the windows, tell me what you see and think about.”</p>
+</section>
+<section id="kognitive-interview-think-aloud-4" class="level2">
+<h2 class="anchored" data-anchor-id="kognitive-interview-think-aloud-4">Kognitive interview: Think-aloud (4)</h2>
+<ul>
+<li>To versioner
+<ul>
+<li>Samtidig
+<ul>
+<li>‘Tænke højt’ <em>mens</em> han/hun formulerer det</li>
+</ul></li>
+<li>Retrospektiv
+<ul>
+<li>‘Tænke højt’ <em>efter</em> besvarelse af spørgsmål eller skema</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="kognitive-interview-think-aloud-5" class="level2">
+<h2 class="anchored" data-anchor-id="kognitive-interview-think-aloud-5">Kognitive interview: Think-aloud (5)</h2>
+<p>Zaller &amp; Feldman (1992)</p>
+<p><img src="C:/Users/MOPE1153/Desktop/Metode/Undervisning/Test%20af%20spørgeskema/Billeder/question.png" id="id" class="class" style="width:85.0%;height:85.0%"></p>
+<p><em>Samtidig</em>: Before telling me how you feel about this, could you tell me what kind of things come to mind when you think about this question?</p>
+<p><em>Retrospektiv</em>: Still thinking about the question you just answered, I’d like you to tell me what ideas came to mind as you were answering that question. Exactly what things went through your mind?</p>
+</section>
+<section id="kognitive-interview-think-aloud-6" class="level2">
+<h2 class="anchored" data-anchor-id="kognitive-interview-think-aloud-6">Kognitive interview: Think-aloud (6)</h2>
+<ul>
+<li>Samtidig think-aloud
+<ul>
+<li>reflektere over alle spørgsmål</li>
+<li>glemmer ikke overvejelser undervejs</li>
+</ul></li>
+<li>Retrospektiv think-aloud
+<ul>
+<li>Mindre tungt for respondent (langt skema)</li>
+<li>Bedre flow i interview</li>
+</ul></li>
+</ul>
+<p>Generelt</p>
+<ul>
+<li>Fordel
+<ul>
+<li>Simpel teknik</li>
+<li>Antages at reflektere tankeproces</li>
+<li>Interviewer-effekt begrænses</li>
+</ul></li>
+<li>Ulempe
+<ul>
+<li>Besværlig for informant</li>
+<li>Kognitive belastning kan ændre bearbejdning</li>
+<li>Kan metode påvirke svar? (stimulere tænkning)</li>
+</ul></li>
+</ul>
+</section>
+<section id="kongnitive-interview-probing-1" class="level2">
+<h2 class="anchored" data-anchor-id="kongnitive-interview-probing-1">Kongnitive interview: Probing (1)</h2>
+<ul>
+<li><p>Opfølgningsspørgsmål, som interviewer stiller informant (kognitive proces)</p></li>
+<li><p>Større engagement fra interviewer</p></li>
+<li><p>Eksempler</p>
+<ul>
+<li>Forståelse: Hvad betyder ordet ‘patient’ for dig?</li>
+<li>Genkald: Hvordan kom du i tanke om at du har været ved læge 5 gange de seneste tolv måneder?</li>
+<li>Svarvurdering: Hvordan kom du frem til svaret?</li>
+<li>Svarafgivelse: Fandt du, svarkategorierne passer til spørgsmålet?</li>
+<li>Løbende: fx “Jeg lagde mærke til, at du tøvede ved spørgsmålet om tv-vaner. Hvad skyldtes det?”</li>
+</ul></li>
+</ul>
+</section>
+<section id="kongnitive-interview-probing-2" class="level2">
+<h2 class="anchored" data-anchor-id="kongnitive-interview-probing-2">Kongnitive interview: Probing (2)</h2>
+<ul>
+<li>Proaktive probes
+<ul>
+<li>Interviewer søger aktivt efter problemer
+<ul>
+<li>Typisk planlagte probes</li>
+</ul></li>
+<li><em>Hvad tænkte du på, da du prøvede at huske?</em></li>
+<li><em>Hvilke begivenheder inkluderede du i dit svar?</em></li>
+</ul></li>
+<li>Reaktive
+<ul>
+<li>Udløses af respondenters adfærd
+<ul>
+<li>Kan være defineret eller overladt til interviewer (skønsmæssig)</li>
+</ul></li>
+<li>Eksempler</li>
+<li><em>Du så ud som om du tænkte meget over det. Hvad tænkte du på?</em></li>
+<li><em>Du svarede meget hurtigt. Hvorfor var det nemt?</em></li>
+</ul></li>
+</ul>
+</section>
+<section id="kongnitive-interview-probing-3" class="level2">
+<h2 class="anchored" data-anchor-id="kongnitive-interview-probing-3">Kongnitive interview: Probing (3)</h2>
+<ul>
+<li>Fordel
+<ul>
+<li>Nemmere for informant end think-aloud</li>
+<li>Bedre mulighed for samtale</li>
+</ul></li>
+<li>Ulempe
+<ul>
+<li>Større engagement fra interviewer</li>
+<li>Mere ‘usagt’ viden <span class="math inline">\(\rightarrow\)</span> færre overvejelser</li>
+</ul></li>
+</ul>
+</section>
+<section id="kongnitive-interview-definering" class="level2">
+<h2 class="anchored" data-anchor-id="kongnitive-interview-definering">Kongnitive interview: Definering</h2>
+<ul>
+<li><p>Specifik fokus på ordforståelse</p></li>
+<li><p>Informant præseteres for centrale ord og bedt om at forklare</p></li>
+</ul>
+<p><strong>Eksempel</strong> Hvilke ord eller aktiviteter forbinder du med ’frivilligt arbejde’? Kan du give nogle eksempler?</p>
+<ul>
+<li>Fordel
+<ul>
+<li>Kræver mindre af interviewer og af informant og R</li>
+</ul></li>
+<li>Ulempe
+<ul>
+<li>Ikke indsigt i svarprocessen</li>
+</ul></li>
+</ul>
+</section>
+<section id="udvælgelse-til-kognitive-interviews-generelt" class="level2">
+<h2 class="anchored" data-anchor-id="udvælgelse-til-kognitive-interviews-generelt">Udvælgelse til kognitive interviews generelt</h2>
+<ul>
+<li><p>Afhængigt af hvad man ønsker at opnå</p></li>
+<li><p>Fokus på at identificere mange problemer</p>
+<ul>
+<li>Forskelligartede informanter</li>
+<li>Grupper med særlig udfordring (fx svagt læsende elever)</li>
+</ul></li>
+<li><p>Dog igen tidskrævende og kan være svært/dyrt at rekruttere</p></li>
+</ul>
+</section>
+<section id="opsummering" class="level2">
+<h2 class="anchored" data-anchor-id="opsummering">Opsummering</h2>
+<ul>
+<li>Ofte bruges en kombination af metoder
+<ul>
+<li>Think-aloud, Probing, Definering</li>
+</ul></li>
+</ul>
+<p>Overordnet</p>
+<ul>
+<li>Fordel: Dyb forståelse af om informanter
+<ul>
+<li>forstår enkeltord</li>
+<li>genkalder information (og problemer)</li>
+<li>gider forsøge at huske (eller estimerer)</li>
+<li>grundlæggende kvalitativ (dyb viden)</li>
+</ul></li>
+<li>Ulemper:
+<ul>
+<li>Ikke repræsentativ</li>
+<li>Kræver meget af interviewer (viden om spørgeskemakonstruktion)</li>
+<li>Ved brug af skønsmæssige probe-teknikker (tilfældige nedslag)</li>
+<li>Transskribering</li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="eksperimenter" class="level1">
+<h1>Eksperimenter</h1>
+<section id="eksperimenter-1" class="level2">
+<h2 class="anchored" data-anchor-id="eksperimenter-1">Eksperimenter (1)</h2>
+<ul>
+<li><p>Kvantitativ tilgang for at undersøge kvaliteten af spørgsmål eller svarkategorier</p></li>
+<li><p>Typisk ’split-ballot’ eksperimenter</p></li>
+<li><p>Fremgangsmåde:</p>
+<ul>
+<li>Rekruttere en gruppe af respondenter til at besvare spørgeskema</li>
+<li>Opdeler/splitter gruppen tilfældigt i to eller flere grupper
+<ul>
+<li>lodtrækning (sikre sammenlignelighed)</li>
+</ul></li>
+<li>Grupper modtager forskellige versioner af spørgsmål</li>
+<li>Sammenligner svar ml. grupper</li>
+</ul></li>
+</ul>
+<p>Undersøge betydningen af ord, svarskala eller rækkefølge.</p>
+</section>
+<section id="eksperimenter---enkeltord-2" class="level2">
+<h2 class="anchored" data-anchor-id="eksperimenter---enkeltord-2">Eksperimenter - enkeltord (2)</h2>
+<ul>
+<li><p>Version 1: Hvor mange timer brugte du i sidste uge på husligt arbejde derhjemme?</p></li>
+<li><p>Version 2: Hvor mange timer brugte du i sidste uge på husligt arbejde derhjemme? <em>(fx støvsugning, opvask, havearbejde og opvask)</em></p></li>
+</ul>
+</section>
+<section id="eksperimenter---svarskala-3" class="level2">
+<h2 class="anchored" data-anchor-id="eksperimenter---svarskala-3">Eksperimenter - svarskala (3)</h2>
+<p>Schwarz et al.&nbsp;(1985) fortsat</p>
+<p><em>How many hours of television do you watch on an average day?</em></p>
+<div id="id" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="C:/Users/MOPE1153/Desktop/Metode/Undervisning/At%20stille%20gode%20spørgsmål/Slides%20-%20talenoter/Billeder/highlowscale.png" class="class figure-img" style="width:65.0%;height:65.0%"></p>
+<figcaption>Tourangeau 2000: 248</figcaption>
+</figure>
+</div>
+<ul>
+<li><p>Low options: 16,2 % ‘more than 2½ hours’</p></li>
+<li><p>High options: 36,5 % ‘more than 2½ hours’</p></li>
+<li><p>Midterkategori/Ved ikke</p></li>
+</ul>
+</section>
+<section id="eksperimenter---rækkefølge-4" class="level2">
+<h2 class="anchored" data-anchor-id="eksperimenter---rækkefølge-4">Eksperimenter - rækkefølge (4)</h2>
+<p>Q: Skal USA give journalister fra kommunistiske lande fri adgang? (Schuman &amp; Presser 1981)</p>
+<p><em>Communist reporters</em>: Do you think <strong>the United States should let Communist reporters from other countries</strong> come in here and send back news to their papers?</p>
+<p><em>American Reporters</em>: Do you think a <strong>Communist country like Russia should let American newspaper reporters </strong>come in and send back news to their papers?</p>
+<ul>
+<li>‘Communist reporter først’: Lav støtte til fri adgang (55%)
+<ul>
+<li>holdning til kommunisme, Rusland</li>
+</ul></li>
+<li>‘Communist reporter nr. 2’: Høj støtte til fri adgang (75%)
+<ul>
+<li>fairness, ligeværd</li>
+</ul></li>
+</ul>
+</section>
+<section id="eksperimenter-5" class="level2">
+<h2 class="anchored" data-anchor-id="eksperimenter-5">Eksperimenter (5)</h2>
+<ul>
+<li>Overvejelser
+<ul>
+<li>Vær varsom: Begræns variation imellem versioner
+<ul>
+<li>helst kun én forskel</li>
+</ul></li>
+<li>Hensigtsmæssig metode ift. at minimere ved-ikke svar</li>
+</ul></li>
+<li>Fordele:
+<ul>
+<li>Tester om fx ord, svarskala eller rækkefølge gør en forskel</li>
+<li>Stærk test om variation gør en forskel
+<ul>
+<li>Ikke baseret på informanters egen psyko-analyse</li>
+<li>Observeret og pr. design</li>
+</ul></li>
+</ul></li>
+<li>Ulempe:
+<ul>
+<li>Kan være svært at afgøre hvad der er bedst afhængig af formålet</li>
+<li>Egner sig ikke som eksplorativ metode</li>
+<li>Repræsentativ</li>
+<li>Statistisk usikkerhed (kræver mange respondenter)</li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="pilot-test" class="level1">
+<h1>Pilot-test</h1>
+<section id="pilot-test-1" class="level2">
+<h2 class="anchored" data-anchor-id="pilot-test-1">Pilot-test (1)</h2>
+<ul>
+<li><p>Kvantitativ metode</p></li>
+<li><p>Gennemførsel af spørgeskema i lille skala</p>
+<ul>
+<li>fx 100 respondenter</li>
+</ul></li>
+<li><p>Testdata, der kan identificere problemer</p></li>
+<li><p>Hvad kigger vi efter?</p></li>
+</ul>
+</section>
+<section id="pilot-test-2" class="level2">
+<h2 class="anchored" data-anchor-id="pilot-test-2">Pilot-test (2)</h2>
+<blockquote class="blockquote">
+<ul>
+<li>Problem 1: Spørgsmål non-respons</li>
+</ul>
+</blockquote>
+</section>
+<section id="pilot-test-2-1" class="level2">
+<h2 class="anchored" data-anchor-id="pilot-test-2-1">Pilot-test (2)</h2>
+<ul>
+<li><p>Problem 1: Spørgsmål non-respons</p></li>
+<li><p>Årsager</p>
+<ul>
+<li>manglende forståelse</li>
+<li>lav motivation</li>
+<li>bevidst tilbageholdelse</li>
+<li>svarkategorier passer ikke</li>
+</ul></li>
+<li><p>Løsning</p>
+<ul>
+<li>Test af spørgsmålsordlyd og svarkategorier</li>
+<li>Udelad hvis irrelevant for respondent</li>
+<li>(tilbyd ved ikke)</li>
+</ul></li>
+</ul>
+</section>
+<section id="pilot-test-3" class="level2">
+<h2 class="anchored" data-anchor-id="pilot-test-3">Pilot-test (3)</h2>
+<ul>
+<li>Problem 2: Mange ved ikke svar
+<ul>
+<li>Ikke problem ved faktuelle vidensspørgsmål</li>
+<li>Problem ved adfærdsspørgsmål eller holdningsspørgsmål</li>
+</ul></li>
+<li>Løsning
+<ul>
+<li>Test af spørgsmålsordlyd og svarkategorier</li>
+<li>Udelad hvis irrelevant for respondent</li>
+<li>Eksperimentér med hjælpetekst</li>
+</ul></li>
+</ul>
+</section>
+<section id="pilot-test-4" class="level2">
+<h2 class="anchored" data-anchor-id="pilot-test-4">Pilot-test (4)</h2>
+<ul>
+<li>Problem 3: Lav variation
+<ul>
+<li>ofte begrænset nytte</li>
+</ul></li>
+</ul>
+<ul>
+<li>Løsning
+<ul>
+<li>Tests af spørgsmål og svarkategorier</li>
+<li>Udelad hvis irrelevant for respondent</li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="statistisk-evaluering" class="level1">
+<h1>Statistisk evaluering</h1>
+<section id="afgøre-response-bias-1" class="level2">
+<h2 class="anchored" data-anchor-id="afgøre-response-bias-1">Afgøre response bias (1)</h2>
+<ul>
+<li><p><strong>Response bias</strong>: folks svar indeholder systematisk over- eller underrapportering i en given retning.</p></li>
+<li><p>Kan man sammenholde med sand værdi?</p>
+<ul>
+<li>Faktuelle spørgsmål, ikke holdninger</li>
+</ul></li>
+<li><p>Cannel et al.&nbsp;1977 undersøge hospitalsindlæggelser</p>
+<ul>
+<li>Sammenholder journaler med surveysvar</li>
+</ul></li>
+</ul>
+<div id="id" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="C:/Users/MOPE1153/Desktop/Metode/Undervisning/At%20stille%20gode%20spørgsmål/Slides%20-%20talenoter/Billeder/Cannell.png" class="class figure-img" style="width:55.0%;height:55.0%"></p>
+<figcaption>Cannel et al.&nbsp;1997</figcaption>
+</figure>
+</div>
+</section>
+<section id="afgøre-response-bias-2" class="level2">
+<h2 class="anchored" data-anchor-id="afgøre-response-bias-2">Afgøre response bias (2)</h2>
+<ul>
+<li>Eksempel
+<ul>
+<li>Elevers lånefrekvens på skolebibliotek seneste år</li>
+<li>Læreres sygemeldinger</li>
+<li>Læreres gennemførsel af frivilige nationale test</li>
+<li>Læreres brug af digitalt læremiddel (der logger brug)</li>
+</ul></li>
+</ul>
+<blockquote class="blockquote">
+<ul>
+<li>Kræver </li>
+</ul>
+</blockquote>
+</section>
+<section id="afgøre-response-variance-1" class="level2">
+<h2 class="anchored" data-anchor-id="afgøre-response-variance-1">Afgøre response variance (1)</h2>
+<ul>
+<li><p><strong>Response variance</strong>: er de tilfældige målefejl.</p></li>
+<li><p>Undersøges ved ‘repeated interviews’ med samme respondent</p>
+<ul>
+<li>Kort tid ml. t0 og t1</li>
+</ul></li>
+</ul>
+<div id="id" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="C:/Users/MOPE1153/Desktop/Metode/Undervisning/Test%20af%20spørgeskema/Billeder/tabel.png" class="class figure-img" style="width:80.0%;height:80.0%"></p>
+<figcaption>Simultan fordeling</figcaption>
+</figure>
+</div>
+</section>
+<section id="afgøre-response-variance-2" class="level2">
+<h2 class="anchored" data-anchor-id="afgøre-response-variance-2">Afgøre response variance (2)</h2>
+<ul>
+<li>Antagelser
+<ul>
+<li>Ikke ændring i det man måler mellem målinger</li>
+<li>Samme protokol</li>
+<li>Første måling påvirker ikke svar på anden måling</li>
+</ul></li>
+<li>Reliabilitetsmål (ml. 0 og 1, højere værdier stabilitet)
+<ul>
+<li>Nominal skala: Cohen’s kappa</li>
+<li>Ordinal skala: Weighted kappa</li>
+<li>Interval skala: Correlation coefficient</li>
+</ul></li>
+</ul>
+<blockquote class="blockquote">
+<ul>
+<li>Kræver </li>
+</ul>
+</blockquote>
+</section>
+</section>
+<section id="opgave" class="level1">
+<h1>Opgave</h1>
+<p>Overvej og skriv probes for at kunne identificere problemer og gennemfør kognitivt interview med din sidemand.</p>
+<p>Del spørgsmålene mellem jer.</p>
+<p>Fremgangsmåde: Spørgsmål <span class="math inline">\(\rightarrow\)</span> svar <span class="math inline">\(\rightarrow\)</span> probe</p>
+<ol type="1">
+<li>Har du gode venner i dit nabolag?</li>
+<li>Hvor mange gange har du læst avis i den seneste uge? </li>
+<li>Hvor mange pauser holdt du i arbejdstiden i sidste uge?</li>
+<li>Har du været udsat for følgende de seneste 12 måneder?</li>
+</ol>
+<ul>
+<li>Færdselsuheld</li>
+<li>Overfald</li>
+</ul>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>Made with ❤️ and <a href="https://quarto.org/"><img src="https://quarto.org/quarto.png" height="15" alt="Quarto"></a></p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

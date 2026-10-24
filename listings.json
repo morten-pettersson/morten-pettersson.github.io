@@ -1,0 +1,39 @@
+[
+  {
+    "listing": "/projects/index.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/articles/nielsen-jensen-toft-pettersson-2026/index.html",
+      "/publications/articles/nielsen-pettersson-toft-2025/index.html",
+      "/publications/articles/elklit-pettersson-petersen-nielsen-2024/index.html",
+      "/publications/articles/nielsen-pettersson-toft-lindemann-nielsen-2024/index.html",
+      "/publications/articles/nielsen-lindemann-toft-pettersson-nielsen-larsen-2024/index.html",
+      "/publications/articles/nielsen-pontoppidan-pettersson-donstrup-kreiner-rayce-2023/index.html",
+      "/publications/bookchapters/christensen-bundsgaard-pettersson-2021/index.html",
+      "/publications/bookchapters/gissel-pettersson-buindsgaard-2021/index.html",
+      "/publications/bookchapters/pettersson-2021/index.html",
+      "/publications/bookchapters/pettersson-christensen-bundsgaard-2021/index.html",
+      "/publications/books/hansen-hansen-pettersson-2022/index.html",
+      "/publications/books/christensen-bundsgaard-kjeldsen-pettersson-2022/index.html",
+      "/publications/books/christensen-bundsgaard-kjeldsen-pettersson-2021/index.html",
+      "/publications/books/bundgaard-bindslev-caeli-pettersson-rusmann-2019/index.html",
+      "/publications/books/bundsgaard-pettersson-puck-2014/index.html",
+      "/publications/phddissertation/pettersson-2018/index.html"
+    ]
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/teaching/2025-11-23-ucl/index.html",
+      "/talks/teaching/2025-11-12-ucl/index.html",
+      "/talks/teaching/2021-10-15-ucl/index.html",
+      "/talks/teaching/2021-09-24-ucl/index.html",
+      "/talks/teaching/2021-08-27-ucl/index.html",
+      "/talks/presentations/2023-09-05-oslo/index.html",
+      "/talks/presentations/2020-08-10-lmdk/index.html"
+    ]
+  }
+]
